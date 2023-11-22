@@ -15,7 +15,7 @@
                 "ind_file_path": "Input/input_indicators.json"
             },
             "output": {
-                "directory_path": "python_project/Output/"
+                "directory_path": "Output/"
 
             }
         }
