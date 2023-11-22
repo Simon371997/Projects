@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+Wafermap_Project/data/LSWMD.pkl
 
 # C extensions
 *.so
