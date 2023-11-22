@@ -1,0 +1,27 @@
+{
+    "file_paths": {
+        "windows": {
+            "input": {
+                "temp_file_path": "Input/input_temperature.xml",
+                "ind_file_path": "Input/input_indicators.json"
+            },
+            "output": {
+                "directory_path": "Output/"
+            }
+        },
+        "mac": {
+            "input": {
+                "temp_file_path": "Input/input_temperature.xml",
+                "ind_file_path": "Input/input_indicators.json"
+            },
+            "output": {
+                "directory_path": "python_project/Output/"
+
+            }
+        }
+    },
+    "model_parameters": {
+        "country_data_to_use": "United States",
+        "dependent_variable": "temperature"
+    }
+}
