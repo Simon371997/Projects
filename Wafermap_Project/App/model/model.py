@@ -9,6 +9,10 @@ from matplotlib import gridspec
 
     # Machine/Deep Learning
 from sklearn.model_selection import train_test_split
+import tensorflow as tf
+from tensorflow import keras
+from tensorflow.keras import layers
+
 
 # Step 2: Read Data
     # Data was seperated in a sample file (1% of orig data) to explore it without too long loading
@@ -77,29 +81,26 @@ def plot_waferMaps():
     plt.show()
 
 
-sub_df = df.loc[df['waferMapDim'] == (26, 26)] #7084 Stück
+sub_df = df.loc[df['waferMapDim'] == (26, 26)]
 sub_wafer = sub_df['waferMap'].values
 
 sw = np.ones((1, 26, 26))
 label = list()
 
-for i in range(len(sub_df)):
+for i in range(100):
     # skip null label
     if len(sub_df.iloc[i,:]['failureType']) == 0:
         continue
-        
     sw = np.concatenate((sw, sub_df.iloc[i,:]['waferMap'].reshape(1, 26, 26)))
-    #label.append(sub_df.iloc[i,:]['failureType'][0][0])
+    label.append(sub_df.iloc[i,:]['failureType'][0][0])
+
+
+x = sw[1:]
+y = np.array(label).reshape((-1,1))
 
 
 
+x = x.reshape((-1, 26, 26, 1))
+print('x shape : {}, y shape : {}'.format(x.shape, y.shape))
 
-
-
-
-
-
-
-
-#df = df[(df['failureNum']>=0) & (df['failureNum']<=8)] # 6267 Stück
 
