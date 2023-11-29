@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from matplotlib import gridspec
 
     # Machine/Deep Learning
-
+from sklearn.model_selection import train_test_split
 
 # Step 2: Read Data
     # Data was seperated in a sample file (1% of orig data) to explore it without too long loading
@@ -77,3 +77,8 @@ def plot_waferMaps():
     plt.show()
 
 
+df = df[df['waferMapDim'] == (26, 26)] #7084 Stück
+df = df[(df['failureNum']>=0) & (df['failureNum']<=8)] # 6267 Stück
+new_df = df.drop(['dieSize', 'lotName', 'trianTestLabel', 'failureType', 'waferMapDim', 'trainTestNum'], axis=1)
+
+print(new_df['waferMap'].values.shape)
