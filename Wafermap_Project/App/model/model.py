@@ -77,8 +77,29 @@ def plot_waferMaps():
     plt.show()
 
 
-df = df[df['waferMapDim'] == (26, 26)] #7084 Stück
-df = df[(df['failureNum']>=0) & (df['failureNum']<=8)] # 6267 Stück
-new_df = df.drop(['dieSize', 'lotName', 'trianTestLabel', 'failureType', 'waferMapDim', 'trainTestNum'], axis=1)
+sub_df = df.loc[df['waferMapDim'] == (26, 26)] #7084 Stück
+sub_wafer = sub_df['waferMap'].values
 
-print(new_df['waferMap'].values.shape)
+sw = np.ones((1, 26, 26))
+label = list()
+
+for i in range(len(sub_df)):
+    # skip null label
+    if len(sub_df.iloc[i,:]['failureType']) == 0:
+        continue
+        
+    sw = np.concatenate((sw, sub_df.iloc[i,:]['waferMap'].reshape(1, 26, 26)))
+    #label.append(sub_df.iloc[i,:]['failureType'][0][0])
+
+
+
+
+
+
+
+
+
+
+
+#df = df[(df['failureNum']>=0) & (df['failureNum']<=8)] # 6267 Stück
+
