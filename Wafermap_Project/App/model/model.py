@@ -98,7 +98,7 @@ model.compile(loss='categorical_crossentropy',
               metrics=['accuracy'])
 print(model.summary())
 
-history = model.fit_generator(train_image_gen, epochs=10, validation_data=test_image_gen)
+history = model.fit_generator(train_image_gen, epochs=15, validation_data=test_image_gen)
 
 # Step 5 Evaluate Model
 def model_evaluation(model):
@@ -107,19 +107,24 @@ def model_evaluation(model):
     y_pred=np.argmax(Y_pred,axis=1)
 
     con_matrix=confusion_matrix(test_image_gen.classes,y_pred)
-    plt.figure(figsize=(10, 6))
-    ax = sns.heatmap(con_matrix, cmap=plt.cm.Greens, annot=True, square=True, xticklabels=target_names, yticklabels=target_names)
-    ax.set_xticklabels(ax.get_xticklabels(), fontsize=8)
+    con_matrix_percent = con_matrix.astype('float') / con_matrix.sum(axis=1)[:, np.newaxis] * 100
+
+
+    plt.figure(figsize=(10, 8))
+    ax = sns.heatmap(con_matrix_percent, cmap=plt.cm.Greens, annot=True, square=True, 
+                    xticklabels=target_names, yticklabels=target_names, fmt='.2f')
+    ax.set_xticklabels(ax.get_xticklabels(), fontsize=8, rotation=45, ha='right')
     ax.set_yticklabels(ax.get_yticklabels(), fontsize=8)
     ax.set_ylabel('Actual', fontsize=20)
     ax.set_xlabel('Predicted', fontsize=20)
+    ax.set_title('Confusion Matrix', fontsize=24)
     plt.show()
     report=classification_report(test_image_gen.classes,y_pred,target_names=target_names,output_dict=True)
     report = pd.DataFrame(report).transpose()
     report.to_csv('./data_exploration/classification_report.csv')
 
 
-     #Plot Loss über die Epochen
+     #Loss plot
     plt.figure(figsize=(10, 6))
 
     plt.subplot(1, 2, 1)
@@ -130,7 +135,7 @@ def model_evaluation(model):
     plt.ylabel('Loss')
     plt.legend()
 
-    # Plot Accuracy über die Epochen
+    #  Accuracy Plot
     plt.subplot(1, 2, 2)
     plt.plot(history.history['accuracy'], label='Training Accuracy')
     plt.plot(history.history['val_accuracy'], label='Validation Accuracy')
@@ -144,3 +149,4 @@ def model_evaluation(model):
 
 model_evaluation(model)
 
+model.save('model.h5')
