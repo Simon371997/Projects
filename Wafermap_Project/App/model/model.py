@@ -18,8 +18,8 @@ import seaborn as sns
 from sklearn.metrics import confusion_matrix, classification_report
 import tensorflow as tf
 from tensorflow import keras
-from tensorflow.keras import layers
-from tensorflow.keras.preprocessing.image import ImageDataGenerator
+from keras.api._v2.keras import layers
+from keras.api._v2.keras.preprocessing.image import ImageDataGenerator
 
 
 # Step 2: Read Data
