@@ -6,7 +6,7 @@ import numpy as np
 model = load_model('model.h5')
 
 # Pfad zum Testbild
-image_path = '/Users/simon/Documents/Master/Sonstiges/Python/Projects/Wafermap_Project/App/model/data/ImageData/test/Center/center_48.jpg'
+image_path = '/Users/simon/Documents/Master/Sonstiges/Python/Projects/Wafermap_Project/App/model/data/ImageData/test/Center/center_49.jpg'
 
 # Bild für die Vorhersage laden und vorverarbeiten
 img = image.load_img(image_path, target_size=(64, 65), color_mode='rgba')  # Zielgröße und Farbmodus anpassen

@@ -1,10 +1,24 @@
 {% extends 'base.html' %}
-{% block title %} Here you can get your prediction! {% endblock%}
+{% block title %} Here you can get your prediction! {% endblock %}
 
 {% block content %}
     <h1>ML Prediction Result</h1>
-    <p>Prediction: {{ prediction }}</p>
+        {% if predicted_class is defined %}
+            <p>Predicted Class: {{ predicted_class }}</p>
+            <p>Confidence: {{ confidence }}</p>
+        {% else %}
+            <p>No prediction available. Upload an image and click 'Predict'.</p>
+        {% endif %}
 
-
+    <form action="{{ url_for('predict') }}" method="post" enctype="multipart/form-data">
+        <label for="image">Upload Image:</label>
+        <input type="file" name="image" accept=".jpg, .jpeg, .png" required>
+        <button type="submit">Predict</button>
+    </form>
 
 {% endblock %}
+
+
+
+
+    
