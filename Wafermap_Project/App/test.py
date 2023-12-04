@@ -20,5 +20,7 @@ prediction = model.predict(img_array)
 # Index des vorhergesagten Labels
 predicted_class = np.argmax(prediction)
 
-print(f"Vorhersage: {predicted_class}")
-print(f"Konfidenz: {prediction[0][predicted_class]}")
+print(prediction)
+print(np.argmax(prediction))
+# print(f"Vorhersage: {predicted_class}")
+# print(f"Konfidenz: {prediction[0][predicted_class]}")
