@@ -1,14 +1,50 @@
 {% extends 'base.html' %}
-{% block title %} Home {% endblock%}
+{% block title %} Home - Wafermap Classifier {% endblock%}
 
 {% block content %}
-    <h1>Upload your picture!</h1>
+    <header class="jumbotron">
+        <div class="container">
+        <h1 class="display-4">Welcome to the Wafermap Classifier!</h1>
+        <p class="lead">Classify your wafermaps with ease.</p>
+        <a class="btn btn-primary btn-lg" href="/get_prediction" role="button">Classify Now</a>
+        </div>
+    </header>
 
-    <form action="{{ url_for('predict') }}" method="post" enctype="multipart/form-data">
-        <label for="image">Upload Image:</label>
-        <input type="file" name="image" accept=".jpg, .jpeg, .png" required>
-        <button type="submit">Predict</button>
-    </form>
+    <section class="container mt-5">
+        <div class="row">
+        <div class="col-md-6">
+            <h2>What is the Wafermap Classifier?</h2>
+            <p>
+            The Wafermap Classifier is an advanced application for classifying wafermaps based on machine learning algorithms.
+            </p>
+        </div>
+        <div class="col-md-6">
+            <img src="static/images/Donut_12.jpg" alt="Example Wafermap" class="img-fluid">
+        </div>
+        </div>
+    </section>
 
-
+    <section class="container mt-5">
+        <h2>How It Works</h2>
+        <div class="row">
+        <div class="col-md-4">
+            <h4>1. Upload Your Wafermap</h4>
+            <p>Choose your wafermap file and upload it to the platform.</p>
+        </div>
+        <div class="col-md-4">
+            <h4>2. Choose a Model</h4>
+            <p>Select from various models available for wafermap classification.</p>
+        </div>
+        <div class="col-md-4">
+            <h4>3. Get the Prediction</h4>
+            <p>Click on "Classify Now" and receive the prediction for your wafermap.</p>
+        </div>
+        </div>
+    </section>
 {% endblock %}
+
+
+
+
+
+
