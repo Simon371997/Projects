@@ -16,6 +16,11 @@ def home():
     return render_template('home.html')
 
 
+@app.route('/get_prediction')
+def get_prediction():
+    return render_template('get_prediction.html')
+
+
 @app.route('/predict', methods = ['POST'])
 def predict():
     if request.method == 'POST':
@@ -33,17 +38,17 @@ def predict():
 
 
 
+
+# Functions
 def preprocess_data(input_data):
     image_path = 'uploads/uploaded_image.jpg'
 
-    # Bild für die Vorhersage laden und vorverarbeiten
+    # Load image and prepare for prediction
     img = image.load_img(image_path, target_size=(64, 65), color_mode='rgba')  # Zielgröße und Farbmodus anpassen
     img_array = image.img_to_array(img)
     img_array = np.expand_dims(img_array, axis=0)
-    img_array /= 255.0  # Normalisierung
-
+    img_array /= 255.0  # Normalize
     return img_array
-
 
 
 def make_prediction(input_data):
