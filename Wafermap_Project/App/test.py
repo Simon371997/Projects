@@ -18,9 +18,21 @@ img_array /= 255.0  # Normalisierung
 prediction = model.predict(img_array)
 
 # Index des vorhergesagten Labels
-predicted_class = np.argmax(prediction)
+target_names=['Center', 'Donut', 'Edge-loc', 'Edge-ring', 'Loc', 'Near-Full', 'None', 'Random', 'Scratch']
+dict_result = {}
+for i in range(len(target_names)):
+    dict_result[prediction[0][i]] = target_names[i]
+print(dict_result)
 
-print(prediction)
-print(np.argmax(prediction))
-# print(f"Vorhersage: {predicted_class}")
-# print(f"Konfidenz: {prediction[0][predicted_class]}")
+prediction = prediction[0]
+prediction = sorted(prediction, reverse=True)
+probabilty = prediction[:3]
+print(probabilty)
+
+probability_result = []
+class_result = []
+
+for i in range(3):
+    probability_result.append((probabilty[i]*100).round(2))
+    class_result.append(dict_result[probabilty[i]])
+    

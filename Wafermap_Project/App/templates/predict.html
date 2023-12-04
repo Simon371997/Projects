@@ -5,13 +5,15 @@
     <div class="container mt-5">
         <h1 class="mb-4">ML Prediction Result</h1>
 
-        {% if predicted_class is defined %}
+        {% if top3_classes %}
             <div class="alert alert-success" role="alert">
-                <p><strong>Predicted Class:</strong> {{ predicted_class }}</p>
-                <p><strong>Confidence:</strong> {{ confidence * 100 }}%</p>
+                <h5>Top 3 Predictions:</h5>
+                <ul>
+                    {% for i in range(3) %}
+                        <li>{{ top3_classes[i] }}: {{ top3_probabilities[i] }}%</li>
+                    {% endfor %}
+                </ul>
             </div>
-            
-            
 
             <a href="{{ url_for('get_prediction') }}" class="btn btn-primary">Classify Another Wafermap</a>
         {% else %}

@@ -31,13 +31,25 @@ def predict():
         uploaded_file.save(image_path)
 
         # make prediction
-        prediction = make_prediction(image_path) #result: [[0.03, 0.82, 0.05, .....]]
-        predicted_class = np.argmax(prediction) # result: 1
-        confidence = prediction[0][predicted_class] # result: 0.82
-
         target_names=['Center', 'Donut', 'Edge-loc', 'Edge-ring', 'Loc', 'Near-Full', 'None', 'Random', 'Scratch']
-        predicted_class = target_names[predicted_class] # result: 'Donut'
-        return render_template('predict.html', predicted_class=predicted_class, confidence=confidence)
+        prediction = make_prediction(image_path) #result: [[0.03, 0.82, 0.05, .....]]
+        dict_result = {}
+        for i in range(len(target_names)):
+            dict_result[prediction[0][i]] = target_names[i]
+
+        prediction = prediction[0]
+        predictions = sorted(prediction, reverse=True)
+        probabilities = predictions[:3]
+
+        probability_result = []
+        class_result = []
+
+        for i in range(3):
+            probability_result.append((probabilities[i]*100).round(2))
+            class_result.append(dict_result[probabilities[i]])
+
+
+        return render_template('predict.html', top3_classes = class_result, top3_probabilities = probability_result)
 
 
 
