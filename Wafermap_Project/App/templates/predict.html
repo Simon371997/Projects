@@ -1,24 +1,29 @@
 {% extends 'base.html' %}
-{% block title %} Here you can get your prediction! {% endblock %}
+{% block title %} Get Your Prediction {% endblock %}
 
 {% block content %}
-    <h1>ML Prediction Result</h1>
+    <div class="container mt-5">
+        <h1 class="mb-4">ML Prediction Result</h1>
+
         {% if predicted_class is defined %}
-            <p>Predicted Class: {{ predicted_class }}</p>
-            <p>Confidence: {{ confidence }}</p>
+            <div class="alert alert-success" role="alert">
+                <p><strong>Predicted Class:</strong> {{ predicted_class }}</p>
+                <p><strong>Confidence:</strong> {{ confidence }}</p>
+            </div>
+
+            <a href="{{ url_for('get_prediction') }}" class="btn btn-primary">Classify Another Wafermap</a>
         {% else %}
-            <p>No prediction available. Upload an image and click 'Predict'.</p>
+            <div class="alert alert-info" role="alert">
+                <p>No prediction available. Upload an image and click 'Predict'.</p>
+            </div>
+
+            <form action="{{ url_for('predict') }}" method="post" enctype="multipart/form-data" class="mt-4">
+                <div class="form-group">
+                    <label for="image">Upload Image:</label>
+                    <input type="file" class="form-control-file" name="image" accept=".jpg, .jpeg, .png" required>
+                </div>
+                <button type="submit" class="btn btn-primary">Predict</button>
+            </form>
         {% endif %}
-
-    <form action="{{ url_for('predict') }}" method="post" enctype="multipart/form-data">
-        <label for="image">Upload Image:</label>
-        <input type="file" name="image" accept=".jpg, .jpeg, .png" required>
-        <button type="submit">Predict</button>
-    </form>
-
+    </div>
 {% endblock %}
-
-
-
-
-    

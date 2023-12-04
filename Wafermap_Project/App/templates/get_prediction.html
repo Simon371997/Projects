@@ -1,14 +1,48 @@
 {% extends 'base.html' %}
-{% block title %} Home {% endblock%}
+{% block title %} Home {% endblock %}
 
 {% block content %}
-    <h1>Upload your picture!</h1>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-6">
+                <h2>Classify Your Wafermaps</h2>
+                <p>Upload a wafermap image and get predictions using our advanced classifier.</p>
+                <form action="{{ url_for('predict') }}" method="post" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label for="image">Choose a Wafermap Image:</label>
+                        <input type="file" class="form-control-file" name="image" accept=".jpg, .jpeg, .png" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Predict</button>
+                </form>
+            </div>
+            <div class="col-md-6">
+                <h2>Example Wafermap</h2>
+                <p>Below is an example wafermap image for reference:</p>
+                <img src="static/images/Donut_12.jpg" alt="Example Wafermap" class="img-fluid">
+            </div>
+        </div>
+    </div>
 
-    <form action="{{ url_for('predict') }}" method="post" enctype="multipart/form-data">
-        <label for="image">Upload Image:</label>
-        <input type="file" name="image" accept=".jpg, .jpeg, .png" required>
-        <button type="submit">Predict</button>
-    </form>
-
-
+    <div class="container mt-5">
+        <h2>How It Works</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <h4>1. Upload Image</h4>
+                <p>Choose your wafermap file and upload it to the platform.</p>
+            </div>
+            <div class="col-md-4">
+                <h4>2. Get Predictions</h4>
+                <p>Select from various models and get predictions for your wafermap.</p>
+            </div>
+            <div class="col-md-4">
+                <h4>3. Explore Results</h4>
+                <p>Review the predictions and explore detailed results. (not ready for the moment)</p>
+            </div>
+        </div>
+    </div>
 {% endblock %}
+
+
+
+
+
