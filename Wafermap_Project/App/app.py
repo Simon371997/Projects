@@ -8,7 +8,7 @@ from keras.preprocessing import image
 app = Flask(__name__)
 
 # Load Model
-model = load_model('model.h5')
+tf_model = load_model('./model/models/tensorflowCNN.h5')
 
 # routes
 @app.route('/')
@@ -68,7 +68,7 @@ def preprocess_data(input_data):
 
 def make_prediction(input_data):
     input_array = preprocess_data(input_data)
-    result = model.predict(input_array) #result: [[0.03, 0.82, 0.05, .....]]
+    result = tf_model.predict(input_array) #result: [[0.03, 0.82, 0.05, .....]]
     return result
 
 
@@ -80,4 +80,3 @@ def make_prediction(input_data):
 
 if __name__ == '__main__':
     app.run(debug=True)
-# target_names=['Center', 'Donut', 'Edge-loc', 'Edge-ring', 'Loc', 'Near-Full', 'None', 'Random', 'Scratch']
