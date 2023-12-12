@@ -77,10 +77,11 @@ def predict():
             top3_classes=class_result,
             top3_probabilities=probability_result,
         )
+    return None
 
 
 # Functions
-def preprocess_data(image_path):
+def preprocess_data(image_path:str):
     """
     Preprocesses an image for prediction.
 
@@ -104,7 +105,7 @@ def preprocess_data(image_path):
     return img_array
 
 
-def make_prediction(input_data):
+def make_prediction(input_data:str):
     """
     Makes a prediction using a pre-trained TensorFlow model.
 
