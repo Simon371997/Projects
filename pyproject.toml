@@ -17,6 +17,7 @@ dependencies = [
     "pandas>=2.3.0",
     "pdfplumber>=0.11.7",
     "plotly>=6.2.0",
+    "pyboxen>=1.3.0",
     "python-dotenv>=1.1.1",
     "streamlit>=1.46.1",
     "yfinance>=0.2.64",
