@@ -1,0 +1,2 @@
+FROM llama3.2:1b
+ADAPTER G:\Andere Computer\Mein MacBook Air\Master\Sonstiges\Python\random-projects\finetune\final_model

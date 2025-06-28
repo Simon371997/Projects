@@ -1,0 +1,1435 @@
+{
+    "0": {
+        "generated": [
+            {
+                "question": "What is the primary purpose of the CLP Criteria guidance document?",
+                "answer": "The primary purpose of the CLP Criteria guidance document is to provide detailed information on the application of the CLP Criteria."
+            },
+            {
+                "question": "What version of the CLP Criteria guidance is currently in use?",
+                "answer": "The current version of the CLP Criteria guidance in use is Version 1.0."
+            },
+            {
+                "question": "When was the CLP Criteria guidance document released?",
+                "answer": "The CLP Criteria guidance document was released in the year 20XX."
+            },
+            {
+                "question": "What is the main focus of the CLP Criteria guidance document?",
+                "answer": "The main focus of the CLP Criteria guidance document is to outline the application of the CLP Criteria for specific purposes."
+            },
+            {
+                "question": "What organization or entity is responsible for the CLP Criteria guidance?",
+                "answer": "The organization or entity responsible for the CLP Criteria guidance is referred to as XXX."
+            }
+        ],
+        "context": "Guidance on the Application of the CLP Criteria, Overview and background\n1\nVersion 1.0\n-\nXXX 20XX\nGUIDANCE"
+    },
+    "1": {
+        "generated": [
+            {
+                "question": "What is the main purpose of the CLP Guidance Series Overview?",
+                "answer": "The CLP Guidance Series Overview provides a comprehensive summary of the guidance related to the classification, labelling, and packaging of substances and mixtures under Regulation (EC) No 1272/2008."
+            },
+            {
+                "question": "Which regulation does the CLP Guidance Series Overview pertain to?",
+                "answer": "The CLP Guidance Series Overview pertains to Regulation (EC) No 1272/2008, which governs the classification, labelling, and packaging of substances and mixtures."
+            },
+            {
+                "question": "What is the significance of the version number and date mentioned in the data?",
+                "answer": "The version number '1.0' and the date 'Nov 2024' indicate the current release of the guidance, ensuring users have access to the most up-to-date information."
+            },
+            {
+                "question": "What components are included in the CLP Guidance Series Overview?",
+                "answer": "The CLP Guidance Series Overview includes guidance on the application of the CLP criteria, notes on usage, and information about the regulation governing the classification, labelling, and packaging of substances and mixtures."
+            },
+            {
+                "question": "How does the CLP Guidance Series Overview assist in understanding the regulation?",
+                "answer": "The CLP Guidance Series Overview assists in understanding the regulation by providing a structured overview of the guidance, notes on usage, and detailed information on the application of the CLP criteria for substances and mixtures."
+            }
+        ],
+        "context": "Guidance on the Application of the CLP Criteria\nGuidance Series Overview (Incl. notes on usage)\nGuidance to Regulation (EC) No 1272/2008 on classification, labelling and packaging (CLP) of substances and mixtures\nVersion 1.0 Nov 2024"
+    },
+    "2": {
+        "generated": [
+            {
+                "question": "What is the primary purpose of this document?",
+                "answer": "This document aims to assist users in complying with their obligations under the CLP Regulation."
+            },
+            {
+                "question": "Does this document provide legal advice?",
+                "answer": "No, this document does not constitute legal advice. The text of the CLP Regulation is the only authentic legal reference."
+            },
+            {
+                "question": "Who is responsible for the usage of the information provided in this document?",
+                "answer": "The user remains solely responsible for the usage of the information contained in this document."
+            },
+            {
+                "question": "What is the role of the European Chemicals Agency regarding this document?",
+                "answer": "The European Chemicals Agency does not accept any liability with regard to the use that may be made of the information contained in this document."
+            },
+            {
+                "question": "What should users rely on as the official legal reference for the CLP Regulation?",
+                "answer": "Users should rely on the text of the CLP Regulation itself as the only authentic legal reference."
+            }
+        ],
+        "context": "LEGAL NOTICE\nThis document aims to assist users in complying with their obligations under the CLP Regulation. However, users are reminded that the text of the  CLP Regulation is the only authentic legal reference and that the information in this document does not constitute legal advice. Usage of the  information  remains  under  the  sole  responsibility  of  the  user.  The  European  Chemicals Agency does not accept any liability with regard to the use that may be made of the information contained in this document."
+    },
+    "3": {
+        "generated": [
+            {
+                "question": "What is the primary purpose of the document referenced as ECHA-24-G-09-EN?",
+                "answer": "The document provides guidance on the application of CLP criteria."
+            },
+            {
+                "question": "What is the publication date of the referenced document?",
+                "answer": "The referenced document was published in November 2024."
+            },
+            {
+                "question": "What is the ISBN number associated with the referenced document?",
+                "answer": "The ISBN number for the referenced document is 978-92-9468-412-7."
+            },
+            {
+                "question": "Where can one find the information request form to contact ECHA regarding this document?",
+                "answer": "The information request form can be accessed via the Contact ECHA page at: https://echa.europa.eu/contact."
+            },
+            {
+                "question": "What is the reference number for the guidance document on CLP criteria?",
+                "answer": "The reference number for the guidance document is ECHA-24-G-09-EN."
+            }
+        ],
+        "context": "Guidance on the Application of CLP Criteria\nReference:\nECHA-24-G-09-EN\nCat.Number:\nED-01-24-016-EN-N\nISBN:\n978-92-9468-412-7\nDOI:\n10.2823/1704764\nPubl.date:\nNov 2024\nLanguage:\nEN\n- \u00a9 European Chemicals Agency, 2024\nIf you have questions or comments in relation to this document please, send them (quote the reference and issue date) using the information request form. The information request form can be accessed via the Contact ECHA page at: https://echa.europa.eu/contact"
+    },
+    "4": {
+        "generated": [
+            {
+                "question": "What is the mailing address of the European Chemicals Agency?",
+                "answer": "The mailing address of the European Chemicals Agency is P.O. Box 400, FI-00121 Helsinki, Finland."
+            },
+            {
+                "question": "Where is the European Chemicals Agency located at its visiting address?",
+                "answer": "The European Chemicals Agency is located at Telakkakatu 6, Helsinki 00150, Finland."
+            },
+            {
+                "question": "What are the two addresses associated with the European Chemicals Agency?",
+                "answer": "The European Chemicals Agency has two addresses: the mailing address is P.O. Box 400, FI-00121 Helsinki, Finland, and the visiting address is Telakkakatu 6, Helsinki 00150, Finland."
+            },
+            {
+                "question": "What is the purpose of providing both the mailing and visiting addresses for the European Chemicals Agency?",
+                "answer": "The purpose of providing both the mailing and visiting addresses for the European Chemicals Agency is to ensure that individuals can contact the agency through the appropriate address for their specific needs, such as sending postal mail or visiting in person."
+            },
+            {
+                "question": "What are the postal and physical addresses of the European Chemicals Agency?",
+                "answer": "The European Chemicals Agency has a postal address at P.O. Box 400, FI-00121 Helsinki, Finland, and a physical address at Telakkakatu 6, Helsinki 00150, Finland."
+            }
+        ],
+        "context": "European Chemicals Agency\nMailing address: P.O. Box 400, FI-00121 Helsinki, Finland\nVisiting address: Telakkakatu 6, Helsinki 00150, Finland"
+    },
+    "5": {
+        "generated": [
+            {
+                "question": "What is the purpose of the document history section in the dataset?",
+                "answer": "The document history section tracks the evolution and changes made to the dataset over time, providing transparency about its development."
+            },
+            {
+                "question": "Which version of the dataset was the first edition released?",
+                "answer": "The first edition of the dataset was released as Version 1.0."
+            },
+            {
+                "question": "When was the first edition of the dataset released?",
+                "answer": "The first edition of the dataset was released in November 2024."
+            },
+            {
+                "question": "What information is included in the document history section?",
+                "answer": "The document history section includes version numbers, dates, and comments that describe the changes and updates made to the dataset."
+            },
+            {
+                "question": "How does the document history contribute to the dataset's transparency?",
+                "answer": "The document history contributes to the dataset's transparency by documenting the versioning process, including when changes were made and the reasons behind them."
+            }
+        ],
+        "context": "DOCUMENT HISTORY\nVersion 1.0, Comment = First Edition. Version 1.0, Date = November 2024"
+    },
+    "6": {
+        "generated": [
+            {
+                "question": "What is the main topic of the provided data chunk?",
+                "answer": "The main topic is an introduction to the documents in the guidance on the application of the CLP criteria series."
+            },
+            {
+                "question": "What is the significance of the CLP criteria series in the context of the documents?",
+                "answer": "The CLP criteria series provides guidance on the application of specific criteria, which is essential for understanding and implementing the regulations effectively."
+            },
+            {
+                "question": "How are the documents organized within the guidance on the CLP criteria series?",
+                "answer": "The documents are organized with an introduction section followed by detailed content and usage notes, ensuring clarity and ease of reference for users."
+            },
+            {
+                "question": "What is the purpose of the introduction section in the guidance on the CLP criteria series?",
+                "answer": "The introduction section aims to provide an overview of the documents, their contents, and how they should be used, setting the foundation for understanding the detailed guidance."
+            },
+            {
+                "question": "What are the key elements covered in the usage notes for the CLP criteria series documents?",
+                "answer": "The usage notes cover essential information on how to apply the CLP criteria effectively, including specific considerations and best practices for implementation."
+            }
+        ],
+        "context": "Table of Contents\n2. INTRODUCTION TO THE DOCUMENTS IN THE GUIDANCE ON THE APPLICATION OF THE CLP CRITERIA SERIES...................................5, 1. THE NEW GUIDANCE ON THE APPLICATION OF THE CLP CRITERIA SERIES CONTENTS AND USAGE NOTES ............................................5 = 2. INTRODUCTION TO THE DOCUMENTS IN THE GUIDANCE ON THE APPLICATION OF THE CLP CRITERIA SERIES...................................5. 2. INTRODUCTION TO THE DOCUMENTS IN THE GUIDANCE ON THE APPLICATION OF THE CLP CRITERIA SERIES...................................5,"
+    },
+    "7": {
+        "generated": [
+            {
+                "question": "What is the main focus of the document titled 'The New Guidance on the Application of the CLP Criteria Series Contents and Usage Notes'?",
+                "answer": "The document focuses on providing guidance on the application of the CLP criteria, including content and usage notes."
+            },
+            {
+                "question": "What section of the document provides an overview of the CLP criteria application guidance?",
+                "answer": "The overview is provided in the section titled 'Overview' under the document's table of contents."
+            },
+            {
+                "question": "What are the key components discussed in the 'Overview' section of the document?",
+                "answer": "The 'Overview' section discusses the purpose and scope of the CLP criteria application guidance, as well as the structure and content of the series."
+            },
+            {
+                "question": "How does the document organize its content for the series on CLP criteria application?",
+                "answer": "The document organizes its content through a table of contents, which includes sections like 'Overview' and specific content and usage notes."
+            },
+            {
+                "question": "What is the significance of the table of contents in the context of the CLP criteria application guidance series?",
+                "answer": "The table of contents is significant as it outlines the structure and organization of the series, guiding users to the relevant sections for the application of CLP criteria."
+            }
+        ],
+        "context": "Table of Contents\n= . 2.1., 1. THE NEW GUIDANCE ON THE APPLICATION OF THE CLP CRITERIA SERIES CONTENTS AND USAGE NOTES ............................................5 = OVERVIEW............................................................................................. 2.1.,"
+    },
+    "8": {
+        "generated": [
+            {
+                "question": "What is the main focus of the guidance series on the application of the CLP criteria?",
+                "answer": "The guidance series focuses on the application of the CLP criteria, providing detailed content and usage notes for different parts and annexes."
+            },
+            {
+                "question": "What are the key components included in the guidance on the application of the CLP criteria?",
+                "answer": "The guidance includes parts and annexes that outline the application of the CLP criteria, along with content and usage notes for each section."
+            },
+            {
+                "question": "How is the guidance structured to assist in understanding the CLP criteria?",
+                "answer": "The guidance is structured with a table of contents that lists the parts and annexes, along with content and usage notes to aid comprehension."
+            },
+            {
+                "question": "What is the role of the table of contents in the guidance series?",
+                "answer": "The table of contents serves to organize the parts and annexes of the guidance, making it easier to navigate and locate specific content."
+            },
+            {
+                "question": "What does the guidance series provide for users seeking to apply the CLP criteria?",
+                "answer": "The guidance series provides detailed content and usage notes for each part and annex, helping users effectively apply the CLP criteria."
+            }
+        ],
+        "context": "Table of Contents\n= 5. 2.2., 1. THE NEW GUIDANCE ON THE APPLICATION OF THE CLP CRITERIA SERIES CONTENTS AND USAGE NOTES ............................................5 = PARTS AND ANNEXES OF THE GUIDANCE ON THE APPLICATION OF THE CLP CRITERIA............................................................................................... 2.2.,"
+    },
+    "9": {
+        "generated": [
+            {
+                "question": "What is the main focus of the new guidance on the application of the CLP criteria series?",
+                "answer": "The main focus of the new guidance is to provide updated content and usage notes for the application of the CLP criteria series."
+            },
+            {
+                "question": "What documents are included in the new guidance series?",
+                "answer": "The new guidance series includes documents related to the application of the CLP criteria, covering content and usage notes."
+            },
+            {
+                "question": "What is the purpose of the usage notes provided in the guidance?",
+                "answer": "The usage notes in the guidance are intended to clarify how the CLP criteria should be applied in different contexts."
+            },
+            {
+                "question": "How does the new guidance series contribute to the application of the CLP criteria?",
+                "answer": "The new guidance series contributes by offering updated content and detailed usage notes that help ensure proper application of the CLP criteria."
+            },
+            {
+                "question": "What are the key components of the new guidance on the CLP criteria application?",
+                "answer": "The key components include updated content, usage notes, and instructions for applying the CLP criteria effectively."
+            }
+        ],
+        "context": "Table of Contents\n= 5. 2.3., 1. THE NEW GUIDANCE ON THE APPLICATION OF THE CLP CRITERIA SERIES CONTENTS AND USAGE NOTES ............................................5 = DOCUMENTS IN THE NEW GUIDANCE ON THE APPLICATION OF THE CLP CRITERIA SERIES ................................................................................... 2.3.,"
+    },
+    "10": {
+        "generated": [
+            {
+                "question": "What is the purpose of the guidance update history section?",
+                "answer": "The guidance update history section documents changes and revisions to the CLP criteria guidance, providing a record of the evolution of the guidelines."
+            },
+            {
+                "question": "When was the last update to the CLP criteria guidance recorded in the document?",
+                "answer": "The last update to the CLP criteria guidance was recorded until November 2024."
+            },
+            {
+                "question": "What does the table of contents indicate about the structure of the document?",
+                "answer": "The table of contents suggests that the document includes sections on the new guidance, the application of CLP criteria, and the update history of the guidance."
+            },
+            {
+                "question": "How does the document organize its content regarding the CLP criteria guidance?",
+                "answer": "The document organizes its content by first introducing the new guidance, then explaining its application, and finally detailing the history of updates to the guidance."
+            },
+            {
+                "question": "What is the significance of the repeated mention of the guidance update history in the table of contents?",
+                "answer": "The repeated mention of the guidance update history in the table of contents highlights its importance as a key section that tracks the development and modifications of the CLP criteria guidelines."
+            }
+        ],
+        "context": "Table of Contents\n= 6. 3. GUIDANCE UPDATE HISTORY UNTIL NOV 2024 ...............................6, 1. THE NEW GUIDANCE ON THE APPLICATION OF THE CLP CRITERIA SERIES CONTENTS AND USAGE NOTES ............................................5 = 3. GUIDANCE UPDATE HISTORY UNTIL NOV 2024 ...............................6. 3. GUIDANCE UPDATE HISTORY UNTIL NOV 2024 ...............................6,"
+    },
+    "11": {
+        "generated": [
+            {
+                "question": "What is the main focus of the new guidance series mentioned in the data?",
+                "answer": "The new guidance series focuses on the application of the CLP criteria."
+            },
+            {
+                "question": "Which document is referenced as the preface in the data?",
+                "answer": "The preface referenced is from version 6.0 of the document, dated January 2024."
+            },
+            {
+                "question": "What sections are included in the contents and usage notes of the document?",
+                "answer": "The contents and usage notes include sections such as the table of contents, the preface, and the main guidance content."
+            },
+            {
+                "question": "How is the document structured according to the provided data?",
+                "answer": "The document is structured with a table of contents, a preface from version 6.0 (January 2024), and the main guidance content."
+            },
+            {
+                "question": "What is the significance of the version 6.0 preface in the context of the document?",
+                "answer": "The version 6.0 preface provides updated information and context for the application of the CLP criteria, indicating a revision to the previous content."
+            }
+        ],
+        "context": "Table of Contents\n= . 3.1., 1. THE NEW GUIDANCE ON THE APPLICATION OF THE CLP CRITERIA SERIES CONTENTS AND USAGE NOTES ............................................5 = PREFACE (FROM V6.0 JAN 2024) ............................................................... 3.1.,"
+    },
+    "12": {
+        "generated": [
+            {
+                "question": "What is the purpose of the preface in the document?",
+                "answer": "The preface provides an introduction and context for the series of content related to the new guidance on the application of the CLP criteria."
+            },
+            {
+                "question": "Which section of the document discusses the new guidance on the application of the CLP criteria?",
+                "answer": "Section 3.2 of the document covers the new guidance on the application of the CLP criteria."
+            },
+            {
+                "question": "What is the main focus of the series of content mentioned in the document?",
+                "answer": "The series of content focuses on the application of the CLP criteria, as outlined in the new guidance."
+            },
+            {
+                "question": "How is the content organized within the document?",
+                "answer": "The content is organized into sections, with the preface located in section 3.2 and the main content following it."
+            },
+            {
+                "question": "What does the document's table of contents indicate about its structure?",
+                "answer": "The table of contents indicates that the document includes a preface in section 3.2 and additional content following it."
+            }
+        ],
+        "context": "Table of Contents\n= 6. 3.2., 1. THE NEW GUIDANCE ON THE APPLICATION OF THE CLP CRITERIA SERIES CONTENTS AND USAGE NOTES ............................................5 = PREFACE (FROM NOV 2024) ..................................................................... 3.2.,"
+    },
+    "13": {
+        "generated": [
+            {
+                "question": "What is the purpose of the Table of Contents in this document?",
+                "answer": "The Table of Contents provides an overview of the document's structure and outlines the sections and subsections included."
+            },
+            {
+                "question": "What information is included in the Table of Contents?",
+                "answer": "The Table of Contents lists the sections and subsections of the document, including the 'New Guidance on the Application of the CLP Criteria Series Contents and Usage Notes' and the 'Table of Tables'."
+            },
+            {
+                "question": "What is the significance of the 'New Guidance on the Application of the CLP Criteria Series Contents and Usage Notes' section?",
+                "answer": "This section provides detailed guidance on applying the CLP Criteria, which is essential for understanding and implementing the criteria within the context of the document."
+            },
+            {
+                "question": "What is the role of the 'Table of Tables' in the document?",
+                "answer": "The 'Table of Tables' serves as a reference to all the tables present in the document, facilitating easy navigation and location of specific data or information."
+            },
+            {
+                "question": "What are the key components outlined in the document's Table of Contents?",
+                "answer": "The key components include the main sections such as the 'New Guidance on the Application of the CLP Criteria Series Contents and Usage Notes' and the 'Table of Tables', which together provide a structured overview of the document."
+            }
+        ],
+        "context": "Table of Contents\n= 8. 3.3., 1. THE NEW GUIDANCE ON THE APPLICATION OF THE CLP CRITERIA SERIES CONTENTS AND USAGE NOTES ............................................5 = DOCUMENT HISTORY............................................................................... 3.3.,  = 9. Table of Tables, 1. THE NEW GUIDANCE ON THE APPLICATION OF THE CLP CRITERIA SERIES CONTENTS AND USAGE NOTES ............................................5 = Table of Tables. Table of Tables,"
+    },
+    "14": {
+        "generated": [
+            {
+                "question": "What is the primary purpose of the document history table in the guidance on the CLP criteria?",
+                "answer": "The document history table serves to track the evolution and updates of the CLP criteria guidance from 2009 to 2024."
+            },
+            {
+                "question": "When was the guidance on the application of the CLP criteria first introduced?",
+                "answer": "The guidance on the application of the CLP criteria was first introduced in 2009."
+            },
+            {
+                "question": "What does the series content and usage notes section in the document cover?",
+                "answer": "The series content and usage notes section provides information about the structure, purpose, and intended use of the guidance on the CLP criteria."
+            },
+            {
+                "question": "How has the guidance on the CLP criteria evolved over the years?",
+                "answer": "The guidance on the CLP criteria has evolved through various updates and revisions, as detailed in the document history table from 2009 to 2024."
+            },
+            {
+                "question": "What is the significance of the document history table for users of the CLP criteria guidance?",
+                "answer": "The document history table is significant for users as it allows them to understand the chronological development and changes in the CLP criteria guidance over time."
+            }
+        ],
+        "context": "Table of Contents\n= . Table 2.1: Document History for Guidance on the Application of the CLP Criteria, 2009 - 2024................................................................................................, 1. THE NEW GUIDANCE ON THE APPLICATION OF THE CLP CRITERIA SERIES CONTENTS AND USAGE NOTES ............................................5 = Table 2.1: Document History for Guidance on the Application of the CLP Criteria, 2009 -"
+    },
+    "15": {
+        "generated": [
+            {
+                "question": "What is the primary focus of the document history provided in Table 2.1?",
+                "answer": "The document history focuses on the application of the CLP criteria from 2009 to 2024."
+            },
+            {
+                "question": "What years does the document history in Table 2.1 cover?",
+                "answer": "The document history covers the period from 2009 to 2024."
+            },
+            {
+                "question": "What is the significance of the CLP criteria in the context of this document history?",
+                "answer": "The CLP criteria are significant as they guide the application of regulations and standards within the document history."
+            },
+            {
+                "question": "How is the document history organized in Table 2.1?",
+                "answer": "The document history is organized in a table format, with entries spanning from 2009 to 2024."
+            },
+            {
+                "question": "What does Table 2.1 represent in terms of document management?",
+                "answer": "Table 2.1 represents a chronological record of documents related to the application of the CLP criteria from 2009 to 2024."
+            }
+        ],
+        "context": "Table of Contents\n2024................................................................................................. Table 2.1: Document History for Guidance on the Application of the CLP Criteria, 2009 - 2024................................................................................................,\n= 9"
+    },
+    "16": {
+        "generated": [],
+        "context": "1. THE NEW GUIDANCE ON THE APPLICATION OF THE CLP CRITERIA SERIES CONTENTS AND USAGE NOTES\nThis new guidance series re-presents the 'Parts' of the Guidance on the Application of the CLP by presenting  them  as  a  series  of  separate  documents  for  ease  of  use.  Besides  this  overview document, this new CLP Guidance series contains as separate guidance documents:"
+    },
+    "17": {
+        "generated": [
+            {
+                "question": "What is the main objective of the Part 1 section in the guidance document?",
+                "answer": "The main objective of Part 1 is to establish general principles for classification and labelling, providing a framework for consistent and standardized practices."
+            },
+            {
+                "question": "What does Annex I of Part 1 include?",
+                "answer": "Annex I of Part 1 includes a collection of internet links that are intended for the users of the guidance, offering additional resources and information."
+            },
+            {
+                "question": "Why is standardization important in the context of classification and labelling?",
+                "answer": "Standardization is important in classification and labelling to ensure consistency, reduce ambiguity, and facilitate effective communication across different stakeholders."
+            },
+            {
+                "question": "How does the guidance document support users in understanding the principles of classification and labelling?",
+                "answer": "The guidance document supports users by providing clear principles, practical examples, and additional resources such as the internet links in Annex I."
+            },
+            {
+                "question": "What role do internet links in Annex I play for the users of the guidance?",
+                "answer": "The internet links in Annex I serve as supplementary resources for users, helping them access further information and examples related to the principles of classification and labelling."
+            }
+        ],
+        "context": "Part 1: General Principles for Classification and Labelling\n(Including Annex I: Collection of Internet links for the users of the Guidance)"
+    },
+    "18": {
+        "generated": [
+            {
+                "question": "What are the key physical hazards associated with chemical substances according to the provided data?",
+                "answer": "The key physical hazards include flammability, explosiveness, reactivity, and corrosiveness."
+            },
+            {
+                "question": "How does the transport of hazardous materials relate to the CLP classification for physical hazards?",
+                "answer": "The transport of hazardous materials is closely linked to CLP classification, as it involves categorizing substances based on their physical hazards to ensure safe handling and transportation."
+            },
+            {
+                "question": "What is the significance of Annex I in the context of physical hazards and CLP classification?",
+                "answer": "Annex I establishes the relationship between transport regulations and CLP classification for physical hazards, ensuring that substances are properly categorized for safe handling and transportation."
+            },
+            {
+                "question": "What are the main physical hazards that require special handling during transportation?",
+                "answer": "Physical hazards such as flammability, explosiveness, reactivity, and corrosiveness require special handling during transportation to prevent accidents and ensure safety."
+            },
+            {
+                "question": "How does the CLP classification system address physical hazards in the context of transport regulations?",
+                "answer": "The CLP classification system addresses physical hazards by categorizing substances based on their potential risks, which helps in implementing appropriate transport regulations to minimize dangers."
+            }
+        ],
+        "context": "Part 2: Physical Hazards\n(Including Annex I: Relation between Transport and CLP classification regarding Physical Hazards)"
+    },
+    "19": {
+        "generated": [
+            {
+                "question": "What is the purpose of Annex I in the context of setting concentration limits for substances classified for reproductive toxicity?",
+                "answer": "Annex I serves as a background document that provides the basis for setting specific concentration limits for substances classified for reproductive toxicity under Regulation (EC) No 1272/2008."
+            },
+            {
+                "question": "Which regulation addresses the classification of substances for reproductive toxicity, and what is the role of Annex I in this context?",
+                "answer": "Regulation (EC) No 1272/2008 addresses the classification of substances for reproductive toxicity. Annex I provides the background document that informs the setting of specific concentration limits for these substances."
+            },
+            {
+                "question": "What are the key considerations outlined in Annex I for determining safe concentration limits for substances with reproductive toxicity?",
+                "answer": "Annex I outlines key considerations such as the potential risks to human health, particularly reproductive effects, and provides a scientific basis for establishing safe concentration limits for these substances."
+            },
+            {
+                "question": "How does Annex I contribute to the development of concentration limits for substances classified for reproductive toxicity under Regulation (EC) No 1272/2008?",
+                "answer": "Annex I contributes by providing a background document that includes scientific data and risk assessments, which are essential for determining the specific concentration limits for substances with reproductive toxicity."
+            },
+            {
+                "question": "What is the significance of Regulation (EC) No 1272/2008 in relation to the health hazards associated with substances classified for reproductive toxicity?",
+                "answer": "Regulation (EC) No 1272/2008 is significant because it classifies substances for reproductive toxicity and establishes a framework for setting concentration limits to mitigate health hazards associated with these substances."
+            }
+        ],
+        "context": "Part 3: Health Hazards\n(Including Annex I: Background document to the guidance for setting specific concentration limits for substances classified for reproductive toxicity according to Regulation (EC) No 1272/2008)"
+    },
+    "20": {
+        "generated": [
+            {
+                "question": "What is the purpose of Part 4 and Part 5 in the CLP Guidance series?",
+                "answer": "Parts 4 and 5, along with their annexes, provide guidance on environmental hazards, including aquatic toxicity, rapid degradation, bioaccumulation, and metals and inorganic metal compounds."
+            },
+            {
+                "question": "What should users consider before proceeding to Parts 4 and 5 of the CLP Guidance series?",
+                "answer": "Users should consult Part 1: General Principles for Classification and Labelling before progressing to Parts 4 and 5."
+            },
+            {
+                "question": "What are the key annexes included in Parts 4 and 5 of the CLP Guidance series?",
+                "answer": "The annexes include Aquatic Toxicity, Rapid Degradation, Bioaccumulation, and Metals and Inorganic Metal Compounds."
+            },
+            {
+                "question": "What does the note regarding the CLP Guidance series indicate about its structure?",
+                "answer": "The note indicates that although Parts 4 and 5 are split into separate parts, they are part of a single Guidance on the Application of the CLP Criteria."
+            },
+            {
+                "question": "Why is it important to consult Part 1 before accessing Parts 4 and 5 of the CLP Guidance series?",
+                "answer": "Consulting Part 1 ensures users have a foundational understanding of the classification and labelling principles, which is essential for correctly interpreting the subsequent parts."
+            }
+        ],
+        "context": "Part 4: Environmental Hazards and Part 5: Additional Hazards\n(Including Annexes:\nI. Aquatic Toxicity\nII. Rapid Degradation\nIII. Bioacumulation\nIV. Metals and Inorganic Metal Compounds\nNote : Although split into separate parts, these guidance series documents together constitute a single Guidance on the Application of the CLP Criteria. As such, users of the CLP Guidance series should take care to carefully consult Part 1: General Principles for Classification and Labelling before progressing to any of the subsequent parts.\nFor a full explanation and details of the reorganisation, including explanations of the revised annex and version numbers, please see sections 2 and 3 below."
+    },
+    "21": {
+        "generated": [
+            {
+                "question": "What is the main reason for splitting the CLP Guidance into separate Parts?",
+                "answer": "The main reason for splitting the CLP Guidance into separate Parts is to improve ease of use, as the original single document had become too large."
+            },
+            {
+                "question": "When was the CLP Guidance first consolidated into a single document?",
+                "answer": "The CLP Guidance was first consolidated into a single document prior to November 2024."
+            },
+            {
+                "question": "How has the structure of the CLP Guidance changed since November 2024?",
+                "answer": "Since November 2024, the structure of the CLP Guidance has changed by splitting it into its constituent 'Parts' to enhance usability."
+            },
+            {
+                "question": "What does the document suggest about the history of the CLP Guidance?",
+                "answer": "The document suggests that the history of the CLP Guidance, including version numbers and revisions, can be found in section 3."
+            },
+            {
+                "question": "Why was it necessary to reorganize the CLP Guidance document?",
+                "answer": "It was necessary to reorganize the CLP Guidance document because the single document had grown too large, making it difficult to use effectively."
+            }
+        ],
+        "context": "2.1. OVERVIEW\nSections 2 and 3 provide a more detailed overview of Parts contained within the Guidance on the Application  of  the  CLP  Criteria  series.  Note  that  prior  to  November  2024  all  Guidance  on  the Application of the CLP Criteria was contained within one document. However, due to the increasing size of this single document, it became necessary to reorganise the guidance by splitting it into its constituent 'Parts' for ease of use.\nFor details on the CLP Guidance document history and revised version numbers, please see section 3 of this document."
+    },
+    "22": {
+        "generated": [
+            {
+                "question": "What is the purpose of the Guidance on the Application of the CLP Criteria?",
+                "answer": "The Guidance on the Application of the CLP Criteria provides instructions for correctly applying the Classification, Labeling, and Packaging (CLP) criteria."
+            },
+            {
+                "question": "Which version of the Guidance on the Application of the CLP Criteria was mentioned?",
+                "answer": "The mentioned version is v6.0 from January 2024."
+            },
+            {
+                "question": "What components make up the Guidance on the Application of the CLP Criteria?",
+                "answer": "The Guidance on the Application of the CLP Criteria consists of several parts and annexes."
+            },
+            {
+                "question": "When was the most recent version of the Guidance on the Application of the CLP Criteria released?",
+                "answer": "The most recent version, v6.0, was released in January 2024."
+            },
+            {
+                "question": "What does the term 'CLP' stand for in the context of the Guidance?",
+                "answer": "'CLP' stands for Classification, Labeling, and Packaging."
+            }
+        ],
+        "context": "2.2. PARTS AND ANNEXES OF THE GUIDANCE ON THE APPLICATION OF THE CLP CRITERIA\nThe Guidance on the Application of the CLP Criteria (v6.0 Jan 2024) consisted of the following parts and annexes:"
+    },
+    "23": {
+        "generated": [
+            {
+                "question": "What are the main categories covered in the additional hazards section of this document?",
+                "answer": "The additional hazards section covers categories such as Aquatic Toxicity, Rapid Degradation, Bioaccumulation, Metals and Inorganic Metal Compounds, and others."
+            },
+            {
+                "question": "Which annex provides background information for setting specific concentration limits for substances classified for reproductive toxicity?",
+                "answer": "Annex VI provides background information for setting specific concentration limits for substances classified for reproductive toxicity according to Regulation (EC) No 1272/2008."
+            },
+            {
+                "question": "What is the purpose of Annex V in this document?",
+                "answer": "Annex V serves as a collection of internet links for the users of the guidance provided in the document."
+            },
+            {
+                "question": "Which annex discusses the relationship between transport and CLP classification for physical hazards?",
+                "answer": "Annex VII discusses the relationship between transport and CLP classification regarding physical hazards."
+            },
+            {
+                "question": "What is the focus of Annex II in the additional hazards section?",
+                "answer": "Annex II focuses on the topic of Rapid Degradation."
+            }
+        ],
+        "context": "Part 5: Additional Hazards\nAnnex I: Aquatic Toxicity\nAnnex II: Rapid Degradation\nAnnex III: Bioaccumulation\nAnnex IV: Metals and Inorganic Metal Compounds\nAnnex V: Collection of Internet links for the users of the Guidance\nAnnex VI:  Background  document  to  the  guidance  for  setting  specific  concentration  limits  for substances classified for reproductive toxicity according to Regulation (EC) No 1272/2008\nAnnex VII: Relation between Transport and CLP classification regarding Physical Hazards"
+    },
+    "24": {
+        "generated": [
+            {
+                "question": "What is the purpose of reorganizing the documents in the new guidance?",
+                "answer": "The purpose of reorganizing the documents is to enhance user friendliness and practicality by structuring them into single, separate documents."
+            },
+            {
+                "question": "Which specific documents have been reorganized and published separately?",
+                "answer": "The specific documents reorganized and published separately are the parts and Annexes, with Annex numbers V, VI, and VII adjusted to reflect their new positions."
+            },
+            {
+                "question": "What changes were made to the Annex numbers in the reorganized documents?",
+                "answer": "The Annex numbers V, VI, and VII have been altered to reflect their new positions in the reorganized documents and to prevent confusion."
+            },
+            {
+                "question": "Why were the Annex numbers V, VI, and VII adjusted in the new guidance?",
+                "answer": "The Annex numbers were adjusted to ensure clarity and avoid confusion by aligning them with their new positions in the reorganized documents."
+            },
+            {
+                "question": "How does the reorganization of the documents contribute to user friendliness?",
+                "answer": "The reorganization contributes to user friendliness by presenting the information in single, separate documents that are more practical and easier to navigate."
+            }
+        ],
+        "context": "2.3. DOCUMENTS IN THE NEW GUIDANCE ON THE APPLICATION OF THE CLP CRITERIA SERIES\nIn  order  to  promote  user  friendliness  and  practicality,  the  parts  and  Annexes  have  been reorganised into the following single documents and published separately (Annex numbers V, VI, and VII have been altered as indicated below to respect their position in a new document and to avoid confusion):"
+    },
+    "25": {
+        "generated": [
+            {
+                "question": "What is the main objective of the general principles for classification and labelling mentioned in Part 1?",
+                "answer": "The main objective of the general principles for classification and labelling in Part 1 is to provide a standardized framework for categorizing and labeling data in a manner that ensures consistency, clarity, and compliance with relevant regulations."
+            },
+            {
+                "question": "What does Annex I, formerly Annex V, cover in the context of classification and labelling?",
+                "answer": "Annex I, formerly Annex V, covers additional guidelines and criteria for classification and labelling, offering specific details and examples that complement the general principles outlined in Part 1."
+            },
+            {
+                "question": "How do the general principles in Part 1 contribute to data management practices?",
+                "answer": "The general principles in Part 1 contribute to data management practices by establishing a clear and consistent approach to classification and labelling, which helps in organizing data effectively and ensuring that it meets regulatory and operational standards."
+            },
+            {
+                "question": "What is the significance of having both Part 1 and Annex I (formerly Annex V) in the context of data classification and labelling?",
+                "answer": "The significance of having both Part 1 and Annex I (formerly Annex V) lies in their complementary roles: Part 1 provides overarching principles, while Annex I offers detailed guidelines and examples, ensuring a comprehensive approach to data classification and labelling."
+            },
+            {
+                "question": "What are the key considerations when applying the general principles for classification and labelling?",
+                "answer": "Key considerations when applying the general principles for classification and labelling include ensuring consistency, maintaining clarity, adhering to regulatory requirements, and aligning with organizational standards to ensure effective and compliant data management."
+            }
+        ],
+        "context": "Part 1: General Principles for Classification and Labelling\n(Including Annex I, formerly Annex V)"
+    },
+    "26": {
+        "generated": [
+            {
+                "question": "What is the main focus of Part 2 regarding physical hazards?",
+                "answer": "Part 2 primarily addresses physical hazards, including Annex I which was previously known as Annex VII."
+            },
+            {
+                "question": "What was the former designation of Annex I in Part 2?",
+                "answer": "Annex I in Part 2 was formerly known as Annex VII."
+            },
+            {
+                "question": "How does Part 2 categorize the information related to physical hazards?",
+                "answer": "Part 2 categorizes physical hazards by including Annex I, which has been renamed from its former designation of Annex VII."
+            },
+            {
+                "question": "What does Part 2 include in terms of physical hazards documentation?",
+                "answer": "Part 2 includes documentation on physical hazards, with Annex I being part of this section and previously referred to as Annex VII."
+            },
+            {
+                "question": "What is the significance of Annex I in Part 2 of the document?",
+                "answer": "Annex I in Part 2 is significant as it contains information about physical hazards and was formerly designated as Annex VII."
+            }
+        ],
+        "context": "Part 2: Physical Hazards\n(Including Annex I, formerly Annex VII)"
+    },
+    "27": {
+        "generated": [
+            {
+                "question": "What are the health hazards associated with exposure to hazardous substances in the workplace?",
+                "answer": "Exposure to hazardous substances in the workplace can lead to various health hazards, including respiratory issues, skin irritation, and long-term chronic conditions such as lung disease or cancer."
+            },
+            {
+                "question": "What is the primary purpose of Annex I in the context of health hazards?",
+                "answer": "Annex I, formerly known as Annex VI, serves as a comprehensive list of hazardous substances that are regulated due to their potential to cause significant health risks when exposed to workers or the environment."
+            },
+            {
+                "question": "How does the inclusion of Annex I contribute to workplace safety standards?",
+                "answer": "The inclusion of Annex I in safety standards helps identify and categorize hazardous substances, enabling employers to implement appropriate protective measures and ensure a safer working environment."
+            },
+            {
+                "question": "What are the potential long-term health effects of prolonged exposure to hazardous substances?",
+                "answer": "Prolonged exposure to hazardous substances can result in long-term health effects such as chronic respiratory diseases, organ damage, and an increased risk of developing certain types of cancer."
+            },
+            {
+                "question": "What role does Annex I play in the regulation of hazardous substances?",
+                "answer": "Annex I plays a critical role in the regulation of hazardous substances by providing a standardized list that informs safety protocols, labeling requirements, and risk management strategies."
+            }
+        ],
+        "context": "Part 3: Health Hazards\n(Including Annex I, formerly Annex VI)"
+    },
+    "28": {
+        "generated": [
+            {
+                "question": "What are the key environmental hazards discussed in Part 4 of the document?",
+                "answer": "Part 4 of the document focuses on environmental hazards such as air pollution, water contamination, and soil degradation, which pose significant risks to ecosystems and human health."
+            },
+            {
+                "question": "How does Part 4 address the impact of environmental hazards on human health?",
+                "answer": "Part 4 examines how environmental hazards like air pollution and water contamination can lead to respiratory diseases, waterborne illnesses, and long-term health complications."
+            },
+            {
+                "question": "What additional hazards are covered in Part 5 of the document?",
+                "answer": "Part 5 includes additional hazards such as chemical exposure, radiation risks, and industrial accidents, which are critical to consider for comprehensive risk assessment."
+            },
+            {
+                "question": "What role do Annexes I-IV play in the context of environmental and additional hazards?",
+                "answer": "Annexes I-IV provide supplementary information and detailed data on the environmental and additional hazards discussed in Parts 4 and 5, enhancing the overall understanding of these risks."
+            },
+            {
+                "question": "How do Parts 4 and 5 contribute to a comprehensive understanding of environmental and additional hazards?",
+                "answer": "Parts 4 and 5 together offer a thorough analysis of environmental hazards and additional risks, providing a holistic view necessary for effective risk management and mitigation strategies."
+            }
+        ],
+        "context": "Part 4: Environmental Hazards and Part 5: Additional Hazards\n(Including Annexes I-IV)"
+    },
+    "29": {
+        "generated": [
+            {
+                "question": "What is the primary purpose of the CLP Guidance document?",
+                "answer": "The primary purpose of the CLP Guidance document is to provide detailed guidance on the application of the CLP criteria for physical, health, and environmental hazards."
+            },
+            {
+                "question": "Which regulations did the CLP Regulation replace?",
+                "answer": "The CLP Regulation replaced the Dangerous Substances Directive 67/548/EEC (DSD) and the Dangerous Preparations Directive 1999/45/EC (DPD)."
+            },
+            {
+                "question": "What is the role of the Globally Harmonised System (GHS) in the CLP Regulation?",
+                "answer": "The Globally Harmonised System (GHS) serves as the foundation for the CLP Regulation, which implements the provisions of the GHS within the EU."
+            },
+            {
+                "question": "Who is the primary audience for the CLP Guidance document?",
+                "answer": "The primary audience for the CLP Guidance document is manufacturers, importers, and downstream users who apply the classification and labelling criteria."
+            },
+            {
+                "question": "What additional role does the CLP Guidance document play for Competent Authorities in Member States?",
+                "answer": "The CLP Guidance document also serves as a reference for Competent Authorities in Member States (MS CA), the Commission services, and the European Chemicals Agency (ECHA)."
+            }
+        ],
+        "context": "3.1. PREFACE (FROM V6.0 JAN 2024)\nThis  document  is  the  Guidance  on  the  Application  of  the  CLP  Criteria.  It  is  a  comprehensive technical and scientific  document on the application of Regulation (EC) No 1272/2008 on the classification,  labelling  and  packaging  of  substances  and  mixtures  (CLP),  which  replaced  the Dangerous Substances Directive 67/548/EEC (DSD) and the Dangerous Preparations Directive 1999/45/EC (DPD) in a staggered  way.  CLP  is  based  on  the  Globally  Harmonised  System  of Classification and Labelling of Chemicals (GHS) and is implementing the provisions of the GHS within the EU. The objective of this document is to provide detailed guidance on the application of the CLP criteria for physical, health and environmental hazards. The guidance is developed to\nprimarily assist manufacturers, importers and downstream users in applying the classification and labelling criteria, and it also includes practical examples. It is also assumed to be the guidance on classification and labelling for Competent Authorities in the Member States (MS CA), for the Commission services and the European Chemicals Agency (ECHA)."
+    },
+    "30": {
+        "generated": [
+            {
+                "question": "What is the main objective of the guidance document described in the text?",
+                "answer": "The main objective of the guidance document is to provide scientific advice on interpreting data used for classification in certain chapters, such as carcinogenicity, mutagenicity, and reproductive toxicity."
+            },
+            {
+                "question": "Which organization was responsible for developing the guidance document as part of the REACH Implementation Project?",
+                "answer": "The guidance document was developed by the Institute for Health and Consumer Products (IHCP) of the Joint Research Centre in Ispra."
+            },
+            {
+                "question": "When was the REACH Implementation Project RIP 3.6 initiated and completed?",
+                "answer": "The REACH Implementation Project RIP 3.6 was initiated in September 2007 and completed in spring 2009."
+            },
+            {
+                "question": "What was the role of the working groups involved in the development of the guidance text?",
+                "answer": "The working groups involved in the development of the guidance text consisted of experts on classification and labelling from EU Member States and Industry, and they met and discussed continuously to develop the guidance text."
+            },
+            {
+                "question": "When was the guidance document handed over to ECHA, and by which organization?",
+                "answer": "The guidance document was handed over to ECHA in summer 2009 by the Institute for Health and Consumer Products (IHCP) of the Joint Research Centre in Ispra."
+            }
+        ],
+        "context": "3.1. PREFACE (FROM V6.0 JAN 2024)\nIn certain chapters, like for example the ones on carcinogenicity, mutagenicity and reproductive toxicity, the guidance includes to a larger extent scientific advice on how to interpret different data used for classification. This additional guidance is based on experience gained within the EU during the application of the classification criteria under Directive 67/548/EEC, and is written for the experts within the respective fields.\nThis guidance document was developed as a REACH Implementation Project (RIP 3.6) at the Institute for Health and Consumer Products (IHCP) of the Joint Research Centre in Ispra, with support from working groups consisting of experts on classification and labelling from EU Member States and Industry. The project started in September 2007 and the different working groups had meetings and continuous discussions to discuss and develop the guidance text until spring 2009. Finally all texts were consolidated and edited at the IHCP. RIP 3.6 was financially supported with an administrative arrangement made with Directorate-General Enterprise and Industry (currently DG Growth). The guidance was handed over to ECHA in summer 2009."
+    },
+    "31": {
+        "generated": [
+            {
+                "question": "What changes were made to the guidance in version 4.0 of the document?",
+                "answer": "Version 4.0 of the document incorporated updates from the 4 th Adaptation to Technical Progress (ATP) to the CLP, including guidance on criteria for respiratory and skin sensitisation, health-related points, chemically unstable gases and aerosols, and other physical hazards."
+            },
+            {
+                "question": "When was the latest version of the guidance published before the 4 th ATP?",
+                "answer": "The latest version published before the 4 th ATP was version 4.0, which was released in November 2013."
+            },
+            {
+                "question": "What was the purpose of the corrigendum version 4.1?",
+                "answer": "The corrigendum version 4.1 was published in June 2015 to update the text following the transitional period for the 4 th ATP."
+            },
+            {
+                "question": "How did the collaboration with European experts influence the guidance development?",
+                "answer": "The collaboration with European experts during 2012/2013 ensured the guidance incorporated a range of aspects, including criteria for respiratory and skin sensitisation, health-related points, chemically unstable gases and aerosols, and other physical hazards."
+            },
+            {
+                "question": "What were the key topics addressed in the guidance updates following the 4 th ATP?",
+                "answer": "The guidance updates following the 4 th ATP addressed criteria for respiratory and skin sensitisation, health-related points, chemically unstable gases and aerosols, and other physical hazards."
+            }
+        ],
+        "context": "3.1. PREFACE (FROM V6.0 JAN 2024)\nAfter  that  the  guidance  has  been  revised  twice -version  2.0  in  April  2012  on  the  long-term aquatic hazard and version 3.0 in November 2012 in relation to the guidance chapters on setting of specific concentration limits (SCLs) for health hazards.\nDuring 2012/2013, further drafting work was done in close collaboration with European experts, to take account of a range of guidance aspects   (for example further guidance on the criteria for respiratory and skin sensitisation, and other health related points, as well as guidance on the criteria for chemically unstable gases and aerosols and other physical hazards related changes) following the 2 nd  and/or the 4 th  Adaptation to Technical Progress (ATP) to the CLP (Commission Regulation (EU) No 286/2011 and No 487/2013 1 ). This work resulted in publication of version 4.0 in November 2013 and the subsequent corrigendum version 4.1 June 2015 to update the text following the transitional period for the 4 th  ATP."
+    },
+    "32": {
+        "generated": [
+            {
+                "question": "What is the significance of the new guidance document on labelling and packaging?",
+                "answer": "The new guidance document provides updated standards for labelling and packaging in accordance with Regulation (EC) No 1272/2008, replacing the previous sections of the CLP Guidance."
+            },
+            {
+                "question": "When did the updated guidance documents address changes from the 8th ATP?",
+                "answer": "The updated guidance documents addressed changes from the 8th ATP in 2016, incorporating new alternative methods for classifying oxidising solids and updates to classification criteria for skin corrosion/irritation, serious eye damage/irritation, and aerosols."
+            },
+            {
+                "question": "What changes in the CLP Regulation were incorporated into the guidance documents in 2016?",
+                "answer": "The 2016 updates to the guidance documents incorporated changes from the 8th ATP, including new alternative methods for classifying oxidising solids, revised classification criteria for skin corrosion/irritation, serious eye damage/irritation, and aerosols, as well to changes in precautionary statements."
+            },
+            {
+                "question": "Where can the current version of the Guidance on Labelling and Packaging be accessed?",
+                "answer": "The current version of the Guidance on Labelling and Packaging in accordance with Regulation (EC) No 1272/2008 can be accessed on ECHA's guidance website at http://guidance.echa.europa.eu/guidance_en.htm."
+            },
+            {
+                "question": "What is the effective date of the changes introduced by the 8th ATP in the CLP Regulation?",
+                "answer": "The changes introduced by the 8th ATP in the CLP Regulation, as reflected in the guidance documents, became effective from 1 February 2018."
+            }
+        ],
+        "context": "3.1. PREFACE (FROM V6.0 JAN 2024)\nIn  relation  to  labelling  and  packaging,  a  new  stand-alone  guidance  document  was  prepared (' Guidance  on  Labelling  and  Packaging  in  accordance  with  Regulation  (EC)  No  1272/2008' ), warranting the deletion of Part 5 and of Annex V of the Guidance on the Application of the CLP Criteria.  The  Guidance  on  Labelling  and  Packaging  in  accordance  with  Regulation  (EC)  No 1272/2008 is published on ECHA's guidance website, under http://guidance.echa.europa.eu/guidance_en.htm.\nBoth guidance documents were further updated in 2016 to address the changes due to the 8th ATP (e.g. new alternative methods to classify oxidising solids, changes in the classification for skin  corrosion/irritation,  serious  eye  damage/irritation  and  aerosols,  as  well  as  changes  in precautionary statements).\nTherefore,  the  current  version  of  the  Guidance  reflects  the  changes  made  by  the  8 th   ATP (Regulation 2016/918) in Annex I to CLP. These changes apply from 1 February 2018."
+    },
+    "33": {
+        "generated": [
+            {
+                "question": "What is the purpose of Commission Regulation (EU) No 286/2011 and No 487/2013?",
+                "answer": "These regulations amend Regulation (EC) No 1272/2008 to adapt it to technical and scientific progress, specifically for the classification, labelling, and packaging of substances and mixtures."
+            },
+            {
+                "question": "When did the 8th ATP become applicable to substances and mixtures?",
+                "answer": "The 8th ATP became applicable to substances and mixtures on 1 February 2020, following a two-year transition period from 1 February 2018."
+            },
+            {
+                "question": "What is the significance of the 8th ATP in the context of the regulations?",
+                "answer": "The 8th ATP is a key part of the regulations that govern the classification, labelling, and packaging of substances and mixtures, with specific provisions for voluntary application before 1 February 2020."
+            },
+            {
+                "question": "What is the transition period for substances and mixtures placed on the market before 1 February 2018?",
+                "answer": "Substances and mixtures placed on the market before 1 February 2018 are exempt from relabelling and repackaging in accordance with the 8th ATP for a period of two years, until 1 February 2020."
+            },
+            {
+                "question": "How do the amendments in Commission Regulation (EU) No 286/2011 and No 487/2013 affect existing substances and mixtures?",
+                "answer": "The amendments in these regulations allow substances and mixtures placed on the market before 1 February 2018 to avoid relabelling and repackaging under the 8th ATP for a two-year transition period until 1 February 2020."
+            }
+        ],
+        "context": "However:\n- \u00b7 The 8 th  ATP may already be applied on a voluntary basis before that date.\n1  Commission Regulation (EU) No 286/2011 of 10 March 2011 and Commission Regulation (EU) No 487/2013 of 8 May 2013 amending, for the purposes of its adaptation to technical and scientific progress, Regulation (EC) No 1272/2008 of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures.\n- \u00b7 Substances  and  mixtures  placed  on  the  market  before  1  February  2018  shall  not  be required to be relabelled and repackaged in accordance with the 8 th  ATP during a period of two years, i.e. before 1 February 2020."
+    },
+    "34": {
+        "generated": [
+            {
+                "question": "What changes were made to part 4 of the guidance and annexes I-IV between 2019 and 2023?",
+                "answer": "Between 2019 and 2023, part 4 of the guidance (hazards to the aquatic environment) and annexes I-IV were updated to provide guidance on new OECD TGs, offer clarity on several areas, and correct errors and typos."
+            },
+            {
+                "question": "Which organizations were involved in the substantial updates to the CLP guidance?",
+                "answer": "The substantial updates to the CLP guidance involved the PEG, RAC, and Member States/COM through the CARACAL platform."
+            },
+            {
+                "question": "How did the update process differ for editorial changes compared to substantial matters?",
+                "answer": "Editorial changes, such as spelling and typos, were addressed through a fast-track procedure involving only CARACAL, while substantial matters were updated by consulting a PEG, RAC, and Member States/COM via CARACAL."
+            },
+            {
+                "question": "What is the significance of the Version 6.0 of the CLP guidance?",
+                "answer": "Version 6.0 of the CLP guidance represents the last version of the Guidance on the Application of the CLP Criteria contained within one single document."
+            },
+            {
+                "question": "What does the update to the CLP guidance indicate about its development over time?",
+                "answer": "The update to the CLP guidance indicates an ongoing process of refinement and improvement, with changes addressing new guidelines, clarifications, and corrections to ensure accuracy and relevance."
+            }
+        ],
+        "context": "However:\nBetween 2019 and 2023, the part 4 of the guidance (hazards to the aquatic environment) and annexes I -IV were updated to provide guidance on new OECD TGs, provide clarity on a number of  areas,  and  correct  a  number  of  errors/typos.  More  substantial  matters  were  updated  by consulting  a  PEG  established  for  the  purpose,  RAC,  and  Member  States/COM  via  CARACAL. Matters  editorial  in  nature  (spelling  and  typos)  were  update  following  a  fast-track  procedure involving only CARACAL. This update represents the 6 th  update of the CLP guidance (v 6.0).\nNote that Version 6.0 represented the last version of the Guidance on the Application of the CLP Criteria contained within one single document."
+    },
+    "35": {
+        "generated": [
+            {
+                "question": "What were the main updates included in Part 2 of the guidance series?",
+                "answer": "Part 2 underwent substantial updates to all hazard classes, including CLP ATP 12, updates to test guidelines, developments in science, clarifications on comparability between EU and UN methods, removal of references to DSD, and the addition of section 2.17 on desensitised explosives."
+            },
+            {
+                "question": "Which sections were added to Part 3 of the guidance series?",
+                "answer": "Section 3.11 on Endocrine Disruption (HH) was added to Part 3 of the guidance series."
+            },
+            {
+                "question": "What changes were made to Part 4 of the guidance series?",
+                "answer": "Part 4 saw the addition of sections 4.2 on Endocrine Disruption (Env) and 4.3 on PBT/vPvB and PMT/vPvM."
+            },
+            {
+                "question": "Who contributed to the drafting of the guidance on endocrine disruptors in sections 3.11 and 4.2?",
+                "answer": "The European Food Safety Agency (EFSA) colleagues contributed to the drafting of the guidance on endocrine disruptors in sections 3.11 and 4.2."
+            },
+            {
+                "question": "How did the re-presentation of the guidance series in November 2024 reflect updates and new introductions?",
+                "answer": "The re-presentation of the guidance series in November 2024 reflected updates and the introduction of new guidance by splitting the original guidance into its component 'Parts' as a guidance series, with specific updates and additions to each part as outlined."
+            }
+        ],
+        "context": "3.2. PREFACE (FROM NOV 2024)\nIn November 2024 the guidance was represented split in its component 'Parts' as a guidance series  (see  section  2.3).  This  re-presentation  follows  updates  and  the  introduction  of  new guidance as follows:\n\u00b7 Part 2: Physical Hazards - Substantial update of all hazard classes (sections 2.1 -2.16) to account for:\no CLP ATP 12 \u00b7 Updates to test guidelines\no Developments in science\no Clarifications on comparability between EU and UN methods\no Removal of references to DSD\no Addition of section 2.17 on desensitised explosives.\n\u00b7 Part 3: Health Hazards - Addition of section 3.11 on Endocrine Disruption (HH)\n\u00b7 Part  4:  Environmental  Hazards  and  Additional  Hazards  -  Addition  of  sections  4.2  on Endocrine Disruption (Env) and 4.3 on PBT/vPvB and PMT/vPvM.\nECHA would like to acknowledge the contribution of colleagues from European Food Safety Agency (EFSA) for the drafting of the guidance on endocrine disruptors in sections 3.11 and 4.2 and the significant role they played in producing the guidance in these sections."
+    },
+    "36": {
+        "generated": [
+            {
+                "question": "What is the purpose of the document history table in the Guidance on the Application of the CLP Criteria?",
+                "answer": "The document history table tracks the evolution of the document from its introduction in 2009 (Version 1.0) to 2024 (Version 6.0), showing updates and splits into individual parts."
+            },
+            {
+                "question": "When was the Guidance on the Application of the CLP Criteria first introduced?",
+                "answer": "The Guidance on the Application of the CLP Criteria was first introduced in 2009 as Version 1.0."
+            },
+            {
+                "question": "How has the document structure changed from Version 1.0 to Version 6.0?",
+                "answer": "From Version 1.0 to Version 6.0, the document was split into various parts, and each part now has its own version number reflecting updates since 2009."
+            },
+            {
+                "question": "What information can be found in the document history tables of the individual parts?",
+                "answer": "The document history tables of the individual parts provide details about the updates each part and its relevant annexes have received since 2009."
+            },
+            {
+                "question": "What is the significance of the version numbers in the individual parts after the document was split in 2024?",
+                "answer": "The version numbers in the individual parts after the split in 2024 indicate the number of updates each part and its relevant annexes have received since the initial introduction in 2009."
+            }
+        ],
+        "context": "3.3. DOCUMENT HISTORY\nThe below table shows the history of the single document for Guidance on the Application of the CLP  Criteria  from  its  introduction  in  2009  (Version  1.0)  until  2024  (Version  6.0),  when  the document is split in its various parts. Following the split, the individual documents have a version number which reflects the number of updates the individual 'Parts' and relevant 'Annexes' have received since 2009. Detai ls of these updates can be found in each Part's document history table.\n\nTable 2.1: Document History for Guidance on the Application of the CLP Criteria, 2009 -2024."
+    },
+    "37": {
+        "generated": [
+            {
+                "question": "What was the main reason for the revision of the guidance document in April 2011?",
+                "answer": "The main reason for the revision in April 2011 was to address content related to environmental criteria chapters and Annexes following the 2nd Adaptation to Technical Progress to the CLP Regulation (Commission Regulation (EU) No 286/2011)."
+            },
+            {
+                "question": "Which specific parts of the guidance document were revised in the April 2011 update?",
+                "answer": "The April 2011 update revised Part 4 - Environmental hazards and Annexes, which addressed the revised criteria for the long-term aquatic hazard for substances and mixtures, and added new Part 5 - Additional hazards related to the ozone layer. It also included editorial corrections for Part 1 - General principles for classification and labelling."
+            },
+            {
+                "question": "What changes were made to Part 1 of the guidance document during the April 2011 revision?",
+                "answer": "During the April 2011 revision, Part 1 - General principles for classification and labelling underwent editorial corrections and restructuring to reflect the Guidance update, eliminating and amending outdated information."
+            },
+            {
+                "question": "How did the April 2011 revision enhance the guidance document?",
+                "answer": "The April 2011 revision enhanced the guidance document by adding new Part 5 - Additional hazards related to the ozone layer, including examples in the respective Parts and Annexes to illustrate the revisions, and incorporating editorial corrections to improve clarity and relevance."
+            },
+            {
+                "question": "What was the significance of the April 2011 revision in the context of the CLP Regulation?",
+                "answer": "The April 2011 revision was significant as it aligned the guidance document with the 2nd Adaptation to Technical Progress to the CLP Regulation (Commission Regulation (EU) No 286/2011), ensuring it addressed updated environmental criteria and hazard classifications."
+            }
+        ],
+        "context": "3.3. DOCUMENT HISTORY\nn.a., Comment = First edition. n.a., Date = August 2009. n.a., Comment = Please note that change between the version published in August 2009 and that of April 2011 are not recorded in this document history.. n.a., Date = April 2011. Version 2.0, Comment = Revision of the Guidance addressing content in relation to the environmental criteria chapters and Annexes following the 2 nd Adaptation to Technical Progress to the CLP Regulation (Commission Regulation (EU) No 286/2011). The ECHA Secretariat revised the Guidance Part 4 - Environmental hazards and Annexes of the guidance document referring to the revised criteria for the long-term aquatic hazard for substances and mixtures and added new Part 5 - Additional hazards referring to the hazard class 'hazardous to the ozone layer'. As well, a number of examples have been included in the respective Parts and Annexes to illustrate the revisions performed. Further to this, a range of editorial corrections were proposed for Part 1 - General principles for classification and labelling . The update includes the following: \u2022 Revision of Part 1, by eliminating and amending out of date information and restructuring the text in order to reflect the Guidance update. \u2022 All green"
+    },
+    "38": {
+        "generated": [
+            {
+                "question": "What changes were made to the green boxes in Part 4 due to the 2nd ATP?",
+                "answer": "The green boxes in Part 4 were updated to use commas instead of dots to represent numbers smaller than 1, as per the CLP legal text."
+            },
+            {
+                "question": "What is the purpose of the revision in Part 4 regarding the new long-term aquatic hazard criteria?",
+                "answer": "The revision of Part 4 provides guidance on the application of the new long-term aquatic hazard criteria for substances and mixtures."
+            },
+            {
+                "question": "Which sections of Part 4 were substantially revised and what changes were included?",
+                "answer": "Sections 4.1.3 and 4.1.4 were substantially revised, including the addition of new references and new/revised examples to illustrate relevant topics."
+            },
+            {
+                "question": "What is the significance of the new Part 5 - Additional hazards?",
+                "answer": "The new Part 5 - Additional hazards was added to cover topics previously addressed in Part 5: Labelling, which was deleted from earlier versions."
+            },
+            {
+                "question": "What is the date of Version 2.0 of the Guidance document?",
+                "answer": "Version 2.0 of the Guidance document was released on April 2012."
+            }
+        ],
+        "context": "3.3. DOCUMENT HISTORY\nboxes in Part 4 that are impacted by the 2nd ATP were updated. As the CLP legal text uses commas instead of dots to define numbers smaller than 1, the green boxes now show commas as well. \u2022 Revision of Part 4, by providing guidance on the application of the new long-term aquatic hazard criteria for substances and mixtures. \u2022 Section 4.1.3 Classification of substances hazardous to the aquatic environment and section 4.1.4 Classification of mixtures hazardous to the aquatic environment were substantially revised, for example by addition of new references, as well as the new/revised examples to illustrate relevant topics in the Part 4. \u2022 New Part 5 - Additional hazards was added (please note that Part 5: Labelling was deleted from the Guidance in previous non-recorded versions and covered via a new. Version 2.0, Date = April 2012"
+    },
+    "39": {
+        "generated": [
+            {
+                "question": "What are the key revisions made to the Aquatic toxicity section in Annex I of the document?",
+                "answer": "The Aquatic toxicity section in Annex I, specifically the I.3 sub-sections, were revised as part of the updates to the document."
+            },
+            {
+                "question": "What changes were introduced in the Annex II section regarding Rapid degradation?",
+                "answer": "The terminology in Annex II, which pertains to Rapid degradation, was modified as part of the document's revisions."
+            },
+            {
+                "question": "What modifications were made to the Annex IV section concerning Metals and Inorganic Metal Compounds?",
+                "answer": "Annex IV, which covers Metals and Inorganic Metal Compounds, was substantially modified and revised, with new examples added in sub-section IV.7."
+            },
+            {
+                "question": "What is the focus of the Revision of Guidance Part 3 Health Hazards in Version 3.0?",
+                "answer": "The Revision of Guidance Part 3 Health Hazards in Version 3.0 focuses on updating guidance on setting lower and higher SCLs for 4 health hazard classes, including sections 3.2.2.5, 3.3.2.5, 3.7.2.5, and 3.8.2.6."
+            },
+            {
+                "question": "What new content was added in the update related to the health hazards guidance?",
+                "answer": "The update includes the addition of a new Annex (Annex VI) providing guidance on setting SCLs for the reproductive toxicity hazard class based on CLP Article 10(7)."
+            }
+        ],
+        "context": "3.3. DOCUMENT HISTORY\n, 1 = Guidance on Labelling and Packaging in accordance with Regulation (EC) No 1272/2008 published in April 2011). \u2022 Most of the I.3 sub-sections in Annex I - Aquatic toxicity were revised. \u2022 In Annex II - Rapid degradation the terminology was modified. \u2022 Most of the Annex IV - Metals and Inorganic Metal Compounds was substantially modified and revised, as well as in sub-section IV.7 new examples were added.. , 2 = . Version 3.0, 1 = Revision of Guidance Part 3 Health Hazards, relating to specific concentration limits (SCLs) for 4 hazard classes and the inclusion of a new Annex. The update includes the following: \u2022 Revision of Part 3, by providing guidance on the setting of lower and higher SCLs for 4 health hazard classes in section 3.2.2.5 Skin Corrosion/Irritation; section 3.3.2.5 Serious Eye Damage/Eye Irritation; section 3.7.2.5 Reproductive Toxicity and section 3.8.2.6 STOT-SE, in accordance with CLP Article 10(7); \u2022 Inclusion of a new Annex (Annex VI) providing guidance on setting SCLs for the reproductive toxicity hazard class based on"
+    },
+    "40": {
+        "generated": [
+            {
+                "question": "What is the significance of the revision in Version 4.0 of the CLP Guidance?",
+                "answer": "The revision in Version 4.0 of the CLP Guidance addresses content related to Part 2: Physical hazards, Part 3: Health hazards, and Annex VI, incorporating updates from the 2nd and 4th Adaptations to Technical Progress to the CLP Regulation."
+            },
+            {
+                "question": "When was Version 4.0 of the CLP Guidance released?",
+                "answer": "Version 4.0 of the CLP Guidance was released in November 2013."
+            },
+            {
+                "question": "How did the 2nd and 4th Adaptations to Technical Progress influence the revision of the CLP Guidance?",
+                "answer": "The 2nd and 4th Adaptations to Technical Progress influenced the revision by updating the content of the CLP Guidance to address physical hazards, health hazards, and Annex VI, ensuring alignment with the latest regulatory requirements."
+            },
+            {
+                "question": "What was the purpose of the CLP Guidance revisions mentioned in the document history?",
+                "answer": "The purpose of the revisions was to update the CLP Guidance to reflect changes in the CLP Regulation, particularly regarding physical hazards, health hazards, and Annex VI, as per the 2nd and 4th Adaptations to Technical Progress."
+            },
+            {
+                "question": "Which regulatory documents were incorporated into the revision of the CLP Guidance for Version 4.0?",
+                "answer": "The revision of the CLP Guidance for Version 4.0 incorporated the Commission Regulation (EU) No 286/2011 and Commission Regulation (EU) No 487/2013."
+            }
+        ],
+        "context": "3.3. DOCUMENT HISTORY\npotency considerations.. Version 3.0, 2 = November 2012. Version 4.0, 1 = (i) Revision of the CLP Guidance addressing content in relation to the Part 2: Physical hazards, Part 3: Health hazards and Annex VI following the 2 nd and the 4 th Adaptation to Technical Progress to the CLP Regulation (Commission Regulation (EU) No 286/2011 of 10 March 2011 and Commission Regulation (EU) No 487/2013 of 8 May 2013). The revision includes:. Version 4.0, 2 = November 2013"
+    },
+    "41": {
+        "generated": [
+            {
+                "question": "What changes were made to the CLP Guidance in response to the 4th ATP?",
+                "answer": "The 4th ATP extended the scope of CLP Guidance Chapter 2.2 Flammable gases to align with CLP Annex I, Section 2.2, and renamed CLP Annex I, Section 2.3 Flammable aerosols to 2.3 Aerosols."
+            },
+            {
+                "question": "How did the 4th ATP impact the structure and content of the CLP Guidance?",
+                "answer": "The 4th ATP led to the rechecking of all chapters, the deletion of redundant or outdated information, and the reorganization or revision of content. Introduction chapters were shortened, while example sections were expanded."
+            },
+            {
+                "question": "What new subchapter was added to the CLP Guidance following the 4th ATP?",
+                "answer": "A new subchapter titled 'Relation to other physical hazards' was added where it was missing."
+            },
+            {
+                "question": "What specific changes were made to the 'Physical state' subchapter in the CLP Guidance?",
+                "answer": "The 'Physical state' subchapter (2.0.4) was extended with additional information about substance/mixture form and some examples."
+            },
+            {
+                "question": "What additional guidance was provided in subchapter 2.1.5.2 of the CLP Guidance?",
+                "answer": "Subchapter 2.1.5.2 'Additional labelling provisions' in chapter 2.1 'Explosives' provided further guidance on hazard communication."
+            }
+        ],
+        "context": "3.3. DOCUMENT HISTORY\n\u00b7 Based  on  the  4 th   ATP  the  CLP  Guidance  Chapter  2.2 Flammable gases was extended to take into account the scope of CLP, Annex I, section 2.2 to include chemically unstable gases.\n\u00b7 Further, the 4 th  ATP amended the criteria in CLP Annex I, Section 2.3 Flammable aerosols and renamed it into 2.3 Aerosols. Hence, the CLP Guidance was amended accordingly.\n\u00b7 All chapters  were  rechecked  and  redundant  and/or outdated information were deleted, reorganised and/or revised. For example, 'Introduction' chapters were significantly shortened, however several 'examples' sections (i.e. 'Example for classification\u2026') were further elaborated.\n\u00b7 Where  missing,  a  new  subchapter  'Relation  to  other physical hazards' was added.\n\u00b7 Subchapter  2.0.4  'Physical  state'  was  extended  with additional information about substance/mixture form and some examples.\n\u00b7 In  subchapter  2.1.5.2  'Additional  labelling  provisions' within  chapter  2.1  'Explosives'  further  guidance  about hazard communication was provided."
+    },
+    "42": {
+        "generated": [
+            {
+                "question": "What specific new recommendation was added in sub-chapter 2.5.6.1?",
+                "answer": "A new recommendation for shot hazard codes was added to identify the classification of gases under pressure."
+            },
+            {
+                "question": "What is the purpose of including footnotes with references to GHS revisions in the guidance?",
+                "answer": "The footnotes provide information about endorsed or ongoing revisions of the GHS that have not yet been implemented into the CLP through a respective ATP."
+            },
+            {
+                "question": "What are the major revisions included in Part 3 regarding health hazards?",
+                "answer": "The major revisions to Part 3: Health hazards include updates related to the classification of gases under pressure and other health-related classifications."
+            },
+            {
+                "question": "How does the guidance handle information about GHS revisions that have not been implemented into the CLP?",
+                "answer": "The guidance includes footnotes with references to endorsed or ongoing GHS revisions, which are provided for informational purposes only."
+            },
+            {
+                "question": "What is the significance of the new recommendation for shot hazard codes in the context of gas classification?",
+                "answer": "The new recommendation for shot hazard codes is significant as it helps in identifying and classifying gases under pressure, enhancing safety and regulatory compliance."
+            }
+        ],
+        "context": "3.3. DOCUMENT HISTORY\n\u00b7 In sub-chapter 2.5.6.1 a new recommendation for shot hazard codes to identify the classification of gasses under pressure was added.\n\u00b7 Footnotes  with  references  to endorsed  or  on-going revisions of the GHS which have not yet been implemented  into  the  CLP  via  a  respective  ATP  were included  in  relevant  sub-chapters  of  this  guidance  for information only.\nIn addition, the major revisions to Part 3: Health hazards include the following:"
+    },
+    "43": {
+        "generated": [
+            {
+                "question": "What changes were made to the legal text in the 4th ATP according to the document history?",
+                "answer": "The document history indicates that all sections underwent revisions to the legal text for the 4th ATP, including updates to precautionary statements in the tables with labelling information."
+            },
+            {
+                "question": "How was the section on sensitisation (Section 3.4) restructured in the 4th ATP?",
+                "answer": "Section 3.4 was significantly reorganised to present all information on respiratory sensitisation together, followed by information on skin sensitisation, aligning with the structure of the CLP Regulation and GHS documents."
+            },
+            {
+                "question": "What specific revisions were made to sections 3.2.2.5 and 3.3.2.5?",
+                "answer": "Sections 3.2.2.5 and 3.3.2.5 received clarifications to the recently published text (Version 3.0) regarding the setting of SCLs."
+            },
+            {
+                "question": "What is the significance of integrating subcategories for respiratory and skin sensitisation in the 4th ATP?",
+                "answer": "The integration of subcategories for respiratory and skin sensitisation based on the potency of a substance helps clarify the classification and labelling of substances, providing more precise information on their sensitisation potential."
+            },
+            {
+                "question": "What changes were made to the guidance in section 3.1 for the 4th ATP?",
+                "answer": "Section 3.1 introduced new guidance for the 4th ATP in section 3.1.4.1, providing updated information on the requirements and expectations for the ATP."
+            }
+        ],
+        "context": "3.3. DOCUMENT HISTORY\n\u00b7 All  sections:  revisions  to  legal  text  for  the  4 th   ATP, including  revisions  to  Precautionary  Statements  in  the Tables with labelling information.\n\u00b7 Section 3.1: the introduction of new guidance for the 4 th ATP in section 3.1.4.1.\n\u00b7 Sections 3.2.2.5 and 3.3.2.5: clarification to the recently published text (Version 3.0) for the setting of SCLs.\n\u00b7 Section  3.4  (sensitisation)  has  been  significantly  reorganised to present all the information  on  respiratory sensitisation  together,  followed  by  the  information  on skin sensitisation. This is in line with how the sections are presented in the CLP Regulation and in GHS documents.\n\u00b7 Section 3.4: integration of subcategories for respiratory and skin sensitisation based on potency of a substance; clarification of semiquantitative terms like 'low to moderate sensitisation rate' and 'high or low exposure';"
+    },
+    "44": {
+        "generated": [
+            {
+                "question": "What changes were made to the document history in section 3.3?",
+                "answer": "Section 3.3 was updated to include an elaboration of the evaluation of human data for skin sensitisation and the addition of new examples."
+            },
+            {
+                "question": "What new guidance was introduced in section 3.7?",
+                "answer": "New guidance for the 4th ATP was introduced in section 3.7.4.1 and section 3.7.5.1."
+            },
+            {
+                "question": "What was the purpose of the corrigendum in Part 1 and Part 4?",
+                "answer": "The corrigendum in Part 1 and Part 4 aimed to update the list of abbreviations, correct outdated references to guidance documents, and replace modal verbs 'shall' with 'must' where appropriate."
+            },
+            {
+                "question": "What changes were made to the footnotes in the document?",
+                "answer": "A footnote was added informing readers that Directive 98/8/EC had been repealed by Biocidal Products Regulation (EU) No 528/2012, and a footnote related to respiratory sensitisation and skin sensitisation in Table 1.1 was removed."
+            },
+            {
+                "question": "What correction was made to Example D in the document?",
+                "answer": "A correction was made to Example D, sub-chapter, which was part of the corrigendum updates to Part 1, Part 4, and related Annexes I-V."
+            }
+        ],
+        "context": "3.3. DOCUMENT HISTORY\n, 1 = elaboration of evaluation of human data for skin sensitisation and the addition of new examples. \u2022 Section 3.7: the introduction of new guidance for the 4 th ATP in section3.7.4.1 and section 3.7.5.1. (ii) Corrigendum of Part 1: General principles for classification and labelling and Part 4: Environmental hazards and its related Annexes I-V. The corrigendum includes the following: \u2022 The list of abbreviations was updated. \u2022 Update or deletion of outdated references to Guidance on information requirements and chemical safety assessment, Endpoint specific guidance (Chapter R.7a) within Annexes I-V. \u2022 A footnote informing the reader that with effect from 1 September 2013, Directive 98/8/EC had been repealed by Biocidal Products Regulation (EU) No 528/2012 was added. \u2022 In Part 1, Part 4 and Annexes modal verbs 'shall' were replaced with 'must' where appropriate. \u2022 A footnote related to respiratory sensitisation and skin sensitisation in Table 1.1 was removed. \u2022 A correction to Example D, sub-chapter"
+    },
+    "45": {
+        "generated": [
+            {
+                "question": "What changes were made in Version 4.1 of the document?",
+                "answer": "Version 4.1 introduced a reference to CLP, Annex I, point (b) (ii) of Table 4.1.0. It also updated the colour of relative legal text boxes from orange to green, deleted outdated sections in Part 2 and Part 3, and made minor editorial and formatting corrections."
+            },
+            {
+                "question": "When was Version 4.1 of the document released?",
+                "answer": "Version 4.1 was released in June 2015."
+            },
+            {
+                "question": "What was the main purpose of the Corrigendum in Version 4.1?",
+                "answer": "The Corrigendum in Version 4.1 was to account for the end of the transition period of the 4th ATP, as outlined in the previous version 4.0. It included updates to legal text references and the removal of outdated content."
+            },
+            {
+                "question": "Which sections were deleted in Part 2 of Version 4.1?",
+                "answer": "In Part 2 of Version 4.1, the sections 2.2.1 Flammable gases and 2.3.1 Flammable Aerosols were deleted. These sections were considered outdated and were removed to renumber the subsequent sections accordingly."
+            },
+            {
+                "question": "What are the key updates in Version 5.0 of the document?",
+                "answer": "Version 5.0 involves a partial revision of the Guidance to update its content, primarily following changes related to the 4th ATP's transition period. The exact details of the updates are not specified, but the revision aims to ensure the Guidance remains current and relevant."
+            }
+        ],
+        "context": "3.3. DOCUMENT HISTORY\n4.1.4.7.5 was applied, namely a reference to CLP, Annex I, point (b) (ii) of Table 4.1.0 was introduced. In addition, the result of a. , 2 = . Version 4.1, 1 = Corrigendum to take account of the end of the transition period of the 4 th ATP (as foreseen in version 4.0 above): \u2022 change the colour of relative legal text boxes from orange to green; \u2022 in Part 2, to delete section 2.2.1 Flammable gases and section 2.3.1 Flammable Aerosols (outdated text) and renumber sections 2.2.2 Flammable gases (including chemically unstable gases) and 2.3.2 Aerosols accordingly; \u2022 in Part 3, to delete the 'outdated text' in sections 3.7.4.1 and 3.7.5.1 in Reproductive Toxicity. In addition, minor editorial errors were corrected and minor reformatting was made.. Version 4.1, 2 = June 2015. Version 5.0, 1 = Partial revision of the Guidance to update the content mainly following"
+    },
+    "46": {
+        "generated": [
+            {
+                "question": "What changes were made to the document during the update?",
+                "answer": "The update included revisions to legal references and legal text quotations, renumbering of some sections, and the deletion of sections related to the reclassification of substances and mixtures previously classified under the DSD or DPD."
+            },
+            {
+                "question": "When was the last version of the document updated?",
+                "answer": "The last version of the document was updated in July 2017 as Version 5.0."
+            },
+            {
+                "question": "What specific topics were revised in the document update?",
+                "answer": "The update focused on revising legal references and legal text quotations throughout the document, as well as renumbering some sections and removing content related to the reclassification of substances and mixtures previously classified under the DSD or DPD."
+            },
+            {
+                "question": "What was the purpose of the revision to the document?",
+                "answer": "The purpose of the revision was to adapt the document to technical progress and to revise specific additional topics, ensuring that the legal references and text quotations were up-to-date."
+            },
+            {
+                "question": "Which sections were removed in the document revision?",
+                "answer": "The revision removed sections that dealt with the reclassification of substances and mixtures previously classified in accordance with the DSD or DPD."
+            }
+        ],
+        "context": "3.3. DOCUMENT HISTORY\nthe 8 th Adaptation to Technical Progress to the CLP Regulation (Commission Regulation (EU) No 286/2011). Revision of few specific additional topics. The update includes the following: (i) Throughout the document: \u2022 Revision of legal references and legal text quotations.. Version 5.0, 2 = July 2017\n\u00b7 Renumbering of some sections.\n\u00b7 Deletion  of  sections  regarding  the  reclassification  of substances and mixtures previously classified in accordance with the DSD or DPD."
+    },
+    "47": {
+        "generated": [
+            {
+                "question": "What are the key revisions made to Part 1 of the document?",
+                "answer": "The key revisions to Part 1 include the deletion of references to pre-CLP legislation and transitional periods, the addition of references to read-across and grouping in the context of bioavailability, the removal of the quotation of Article 31(3) of REACH, clarification regarding the applicability of the additivity principle, clarification about the application of mixture rules to substances with CMR constituents, reduction of section 1.2.3.1 on physical hazards to avoid redundancy with section 2.0.4, and revision of section 1.7 with the removal of unnecessary information."
+            },
+            {
+                "question": "How has the section on physical hazards been modified in the revised Part 1?",
+                "answer": "Section 1.2.3.1 on physical hazards has been reduced to avoid redundancy with section 2.0.4, which likely covers similar information."
+            },
+            {
+                "question": "What changes were made to the application of mixture rules in the revised document?",
+                "answer": "The revised document clarifies the application of mixture rules to substances that contain CMR (carcinogenic, mutagenic, or reprotoxic) constituents."
+            },
+            {
+                "question": "What was moved to a new Annex VII in the revised Part 1?",
+                "answer": "A table containing additional information related to transport classification was moved to a new Annex VII."
+            },
+            {
+                "question": "What is the significance of the addition of read-across and grouping in the context of bioavailability?",
+                "answer": "The addition of references to read-across and grouping in the context of bioavailability indicates an enhanced approach to assessing the potential risks of substances based on their structural and functional similarities, which may improve the accuracy and efficiency of risk assessment processes."
+            }
+        ],
+        "context": "(ii) Revision of Part 1:\n\u00b7 Deletion of reference to pre-CLP legislation and transitional period.\n\u00b7 Addition of reference to read-across and grouping in the context of bioavailability.\n\u00b7 Removal of quotation of Article 31(3) of REACH.\n\u00b7 Clarification about applicability of additivity principle.\n\u00b7 Clarification  about  the  application  of  mixture  rules  to substances with CMR constituents.\n\u00b7 Reduction of section 1.2.3.1 on physical hazards to avoid redundancy with section 2.0.4.\n\u00b7 Revision  of  section  1.7  and  removal  of  unnecessary information. Table on additional information using transport classification moved to a new Annex VII."
+    },
+    "48": {
+        "generated": [
+            {
+                "question": "What specific changes were made to the 'Explosives' section in Part 2?",
+                "answer": "The 'Explosives' section in Part 2 underwent three main changes: the replacement of the new figure 2.1.3, the update of label elements, and the addition of a new note 2 to table 2.1.2 regarding the requirement for SDSs."
+            },
+            {
+                "question": "What are the key updates to the 'Aerosols' section in Part 2?",
+                "answer": "The 'Aerosols' section in Part 2 includes updates to the classification criteria, the decision logic 2.3.1-a, and the section on the relation to transport classification in 2.3.6."
+            },
+            {
+                "question": "What modifications were introduced to the 'Oxidising solids' section in Part 2?",
+                "answer": "The 'Oxidising solids' section in Part 2 received two main modifications: the addition of criteria using test 0.3 and the update of labelling elements."
+            },
+            {
+                "question": "What are the key changes to the 'Self-reactive' section in Part 2?",
+                "answer": "The 'Self-reactive' section in Part 2 experienced an update to its label elements."
+            },
+            {
+                "question": "What updates were made to the 'Emitting flammable gases' section in Part 2?",
+                "answer": "The 'Emitting flammable gases' section in Part 2 underwent an update to its label elements."
+            },
+            {
+                "question": "What changes were implemented in the 'Organic peroxides' section of Part 2?",
+                "answer": "The 'Organic peroxides' section of Part 2 saw updates to the decision logic 2.15.1 and the label elements."
+            }
+        ],
+        "context": "(iii) Revision of the following sections of Part 2:\n\u00b7 2.1 (Explosives): replacement  of  new  figure  2.1.3; update of label elements; addition new note 2 to table 2.1.2 on requirement for SDSs.\n\u00b7 2.3 (Aerosols): update of text on classification criteria; update of decision logic 2.3.1-a; update of section 2.3.6 on the relation to transport classification.\n\u00b7 2.14 (Oxidising solids): addition of criteria using test 0.3; update of labelling elements.\n(iv) Minor changes to the following sections in Part 2:\n\u00b7 2.8 (Self-reactive): update of label elements.\n\u00b7 2.12 (Emitting flammable gases): update of label elements.\n\u00b7 2.15 (Organic peroxides): update of decision logic.2.15.1; update of label elements."
+    },
+    "49": {
+        "generated": [
+            {
+                "question": "What are the key changes proposed in the revision of Section 3.1 (Acute Toxicity)?",
+                "answer": "The revision includes a reference to new in-vitro tests, the inclusion of harmonised ATE values in Annex VI to CLP, deletion of the reference to relating acute inhalation test conditions to real life, clarification on components for mixture classification, indication to avoid under classification for oral toxicity, and the addition of a new example on additivity methods for mixtures with different physical forms."
+            },
+            {
+                "question": "How does the revision address the classification of mixtures for acute toxicity?",
+                "answer": "The revision clarifies that components to be considered for mixture classification according to the case should be identified, and it indicates that not-classified components may influence ATE. It also emphasizes the need to avoid under classification for oral toxicity."
+            },
+            {
+                "question": "What is the significance of adding a new example on additivity methods for mixtures in Section 3.1?",
+                "answer": "The addition of a new example (13) on the application of additivity methods for mixtures with components in different physical forms provides practical guidance on how to approach the classification of such complex mixtures, enhancing clarity and applicability of the guidelines."
+            },
+            {
+                "question": "What is the role of harmonised ATE values in the revised Section 3.1?",
+                "answer": "Harmonised ATE values will be included in Annex VI to CLP, providing a standardised reference for assessing acute toxicity, ensuring consistency and facilitating easier application of the guidelines across different contexts."
+            },
+            {
+                "question": "Why was the reference to relating acute inhalation test conditions to real life removed from the revision?",
+                "answer": "The reference to relating acute inhalation test conditions to real life was removed to streamline the guidelines, focusing instead on more relevant and practical aspects such as the inclusion of harmonised ATE values and clarification on mixture classification."
+            }
+        ],
+        "context": "(v) Revision of following sections in Part 3:\n- \u00b7 3.1  (Acute  toxicity):  Reference  to  new in-vitro test. Indication that harmonised ATE values will be included in Annex VI to CLP. Deletion of reference to the concept of relating the conditions of an acute inhalation test to real life. Indication that not-classified components may influence ATE and, in general, clarification about components to  be  considered  for  mixture  classification according to the case. Indication to avoid under classification for oral toxicity. Addition of a new example (13) on the application of additivity methods for mixtures with components in different physical forms.\nVersion 6.0"
+    },
+    "50": {
+        "generated": [
+            {
+                "question": "What are the key updates made to section 3.2 regarding skin corrosion classification?",
+                "answer": "Section 3.2 has been revised to include updated non-testing methods, new figures illustrating tiered evaluation and weight of evidence approaches, and separate decision logics for substances and mixtures based on GHS charts."
+            },
+            {
+                "question": "How has the approach to evaluating serious eye damage/irritation been modified in section 3.3?",
+                "answer": "Section 3.3 now includes enhanced interpretation of non-testing methods, references to LVET data, and new figures showing tiered evaluation approaches, along with updated decision logics for substances and mixtures based on GHS charts."
+            },
+            {
+                "question": "What is the significance of the new figures included in sections 3.2 and 3.3?",
+                "answer": "The new figures in sections 3.2 and 3.3 illustrate the tiered evaluation approach and the relative weight of different information sources when applying the weight of evidence methodology, helping to clarify the decision-making process for classification."
+            },
+            {
+                "question": "Why was the decision logic chart replaced with separate logics for substances and mixtures in section 3.2?",
+                "answer": "The decision logic chart was replaced with separate logics for substances and mixtures in section 3.2 to better align with GHS guidelines and to provide more specific guidance for each type of substance, enhancing clarity and applicability."
+            },
+            {
+                "question": "What clarification was added regarding the classification of mixtures in section 3.2?",
+                "answer": "Section 3.2 clarifies that mixtures can be classified as Category 1 without subcategory, highlighting the importance of this classification when assessing skin corrosion risks."
+            }
+        ],
+        "context": "(v) Revision of following sections in Part 3:\n\u00b7 3.2 (Skin corrosion): Subsection on non-testing methods updated and clarified the need to assess the relevance. Update of classification criteria. Inclusion of new figure illustrating the tiered evaluation approach. Inclusion of a new  figure  illustrating  the  relative  weight  of  different available  pieces  of  information  to  be  considered  when weight of Evidence (WoE) is applied. Replacement of the decision  logic  chart  with  separate  decision  logics  for substances and mixtures, based on the chart from GHS. Clarification about classification of mixture as Category 1 without subcategory.\n\u00b7 3.3 (Serious eye damage/irritation): Clarification of the need for further data when considerations about alkaline/acid reserve suggest no risk added. Interpretation of non-testing methods results enhanced. Mentioned the use of LVET data. Inclusion of new figure illustrating  the  tiered  evaluation  approach.  Inclusion  of reference to new figure on hierarchy of information added in  section  3.2.  Replacement  of  the  decision  logic  chart with separate decision logics for substances and mixtures, based on the chart from GHS."
+    },
+    "51": {
+        "generated": [
+            {
+                "question": "What changes were made to the Respiratory or Skin Sensitisation section in Part 3?",
+                "answer": "The Respiratory or Skin Sensitisation section underwent a revision where the relationship between skin and respiratory sensitisation potential was deleted. Non-human data was aligned with REACH guidance, and available non-testing systems were introduced. The test sample for human diagnostic patch testing was also clarified."
+            },
+            {
+                "question": "Which new section was added to the Germ Cell Mutagenicity section in Part 3?",
+                "answer": "A new section on the classification of substances containing CMR constituents, additives, or impurities was added to the Germ Cell Mutagenicity section in Part 3."
+            },
+            {
+                "question": "What updates were implemented in the Carcinogenicity section of Part 3?",
+                "answer": "In the Carcinogenicity section of Part 3, the reference to supporting evidence for classification under DSD was removed. Label elements were updated, and a new section on the classification of substances containing CMR constituents, additives, or impurities was included."
+            },
+            {
+                "question": "What modifications were made to the Reproductive Toxicity section in Part 3?",
+                "answer": "The Reproductive Toxicity section in Part 3 received a new section focused on the classification of substances containing CMR constituents, additives, or impurities."
+            },
+            {
+                "question": "How did the terminology in Part 4 change regarding short-term and long-term studies?",
+                "answer": "In Part 4, terminology was updated to refer to short-term (acute) and long-term (chronic) studies, reflecting minor changes to align with current standards."
+            }
+        ],
+        "context": "(v) Revision of following sections in Part 3:\n\u00b7 3.4  (Respiratory  or  skin  sensitisation):  Deletion  of  the relationship  between  skin  and  respiratory  sensitisation potential.  Identification  of  non-human  data  brought  in line with REACH guidance. Introduction of available nontesting  systems.  Clarification  of  the  test  sample  to  be used in human diagnostic patch testing.\n\u00b7 3.5 (Germ cell mutagenicity): Reference to OECD TG 488 added. New  section on classification of substances containing  CMR  constituents,  additives  or  impurities included.\n(iv) Minor changes to the following sections in Part 3:\n\u00b7 3.6 (Carcinogenicity): Removal of reference to supporting evidence  for  classification  under  DSD.  Update  of  label elements. New  section  included on  classification of substances  containing  CMR  constituents,  additives  or impurities.\n\u00b7 3.7  (Reproductive  toxicity):  New  section  included  on classification of substances containing CMR constituents, additives or impurities.\n\u00b7 3.8 (STOT-SE): Editorial corrections to the examples.\n(vi)  Minor  changes to  Part 4 to update the terminology when referring to short-term (acute) and long-term (chronic) studies."
+    },
+    "52": {
+        "generated": [
+            {
+                "question": "What changes were made to Part 4 in the January 2024 revision?",
+                "answer": "Part 4 was updated to provide clarifications, correct errors, delete irrelevant information, and add text on new OECD TGs."
+            },
+            {
+                "question": "What specific section in Part 4 was modified to address the absence of chronic data?",
+                "answer": "Section 4.1.3.3.1 was revised to reflect general data availability and established practice regarding the absence of chronic data."
+            },
+            {
+                "question": "What are the main objectives of the January 2024 revision to Part 4?",
+                "answer": "The main objectives of the revision are to clarify content, correct errors, remove irrelevant information, and include updates about new OECD TGs."
+            },
+            {
+                "question": "How does the revision address the issue of chronic data availability?",
+                "answer": "The revision amends the paragraph in Section 4.1.3.3.1 to reflect general data availability and established practices related to the absence of chronic data."
+            },
+            {
+                "question": "What new content was added to Part 4 during the January 2024 revision?",
+                "answer": "The revision added text on new OECD TGs to Part 4."
+            }
+        ],
+        "context": "(v) Revision of following sections in Part 3:\nPart 4 has been updated to provide clarifications, correct errors, delete information considered irrelevant, and add text on new OECD TGs. The update includes the following:\n- \u00b7 Section 4.1.3.3.1: The paragraph referring to the absence of chronic data has been amended to reflect general data availability and established practice;\nJanuary 2024"
+    },
+    "53": {
+        "generated": [
+            {
+                "question": "What changes were made to Section 4.1.3.3.1 of the document?",
+                "answer": "Section 4.1.3.3.1 was revised to add clarification on cases where data on a degradation product may need to be considered, and a reference to a topic not directly commented on in the guidance annexes was deleted."
+            },
+            {
+                "question": "What additional content was added at the end of Section 4.1.3.3.2?",
+                "answer": "At the end of Section 4.1.3, some text was added to further define instances where Category Chronic 4 may apply."
+            },
+            {
+                "question": "What new information was included in Section 4.1.3.3.3?",
+                "answer": "Section 4.1.3.3.3 was updated to include text stating that M-factors are considered part of the classification process."
+            },
+            {
+                "question": "What clarification was added to Section 4.1.4.5?",
+                "answer": "Section 4.1.4.5 received clarification on deriving classification when using toxicity values calculated from the additivity formula."
+            },
+            {
+                "question": "What changes were made to Section 4.1.7 and Annex I.2?",
+                "answer": "Section 4.1.7 was deleted as references to reclassification from DSD are outdated. Annex I.2 was updated to include general statements on most commonly occurring issues during aquatic toxicity testing."
+            }
+        ],
+        "context": "(v) Revision of following sections in Part 3:\n\u00b7 Section 4.1.3.3.1; Additional text was added to clarify cases where  data  on  a  degradation  product  may  need  to  be considered;\n\u00b7 Section  4.1.3.3.1:  A  reference  to  a  topic  the  guidance annexes do not directly comment on was deleted;\n\u00b7 At the end of section 4.1.3.3.2: Some text was added to further  define  instances  where  Category  Chronic  4  may apply;\n\u00b7 Section 4.1.3.3.3: Text was added on the fact that M-factors are considered part of the classification;\n\u00b7 Section 4.1.4.5: Clarification on deriving classification when using toxicity values calculated from the additivity formula was added;\n\u00b7 Section 4.1.4.7.5: Correction to Example D and explanation added;\n\u00b7 Section 4.1.7 was deleted as any reference to reclassification from DSD is out of date;\n\u00b7 Annex I.2: General statements on most commonly occurring issues during aquatic toxicity testing have been added;\n\u00b7 Annex  I.2.1.1:  General  considerations  on  OECD  TG  236 were added;"
+    },
+    "54": {
+        "generated": [
+            {
+                "question": "What changes were made to Annex I.2.1.2 in the revision?",
+                "answer": "Annex I.2.1.2 was revised to include general considerations regarding various relevant OECD TGs."
+            },
+            {
+                "question": "How was the OECD TG (202) updated in Annex I.2.2.1?",
+                "answer": "The OECD TG (202) in Annex I.2.2.1 was updated to reflect a more recent change in the respective OECD TG protocol."
+            },
+            {
+                "question": "What additional clarifications were provided in Annex I.2.2.1 regarding invertebrate data?",
+                "answer": "Annex I.2.2.1 added clarifications on invertebrate data beyond Daphnia Magna."
+            },
+            {
+                "question": "What changes were made to Annex I.2.2.2 in the revision?",
+                "answer": "Annex I.2.2.2 was revised to reflect a more recent change in the respective OECD TG protocol (202 part II) and to include clarifications on invertebrate data beyond Daphnia Magna."
+            },
+            {
+                "question": "What specific modifications were made to Annex I.2.3.2?",
+                "answer": "Annex I.2.3.2 was updated with clarifications on aquatic macrophyte data and the deletion of the CLP preference on algae as the preferred test species."
+            }
+        ],
+        "context": "(v) Revision of following sections in Part 3:\n\u00b7 Annex  I.2.1.2:  General  considerations  regarding  various relevant OECD TGs added;\n\u00b7 Annex  I.2.2.1:  A  more  recent  change  in  the  respective OECD TG (202) is reflected;\n\u00b7 Annex I.2.2.1:  Clarifications  on  invertebrate  data  beyond Daphnia Magna were added;\n\u00b7 Annex  I.2.2.2:  A  more  recent  change  in  the  respective OECD TG protocol (202 part II) is reflected;\n\u00b7 Annex I.2.2.2:  Clarifications  on  invertebrate  data  beyond Daphnia Magna were added;\n\u00b7 Annex  I.2.3.2:  Clarifications  on  aquatic  macrophyte  data were added;\n\u00b7 Annex I.2.3.2: CLP preference on algae as the preferred test species deleted;\n\u00b7 Annex I.3.2: Clarification on use of surrogate approach for chronic classification added;\n\u00b7 Annex I.4: Clarification on use of data for difficult to test substances added;"
+    },
+    "55": {
+        "generated": [
+            {
+                "question": "What changes were made to Annex II.2 in the revision?",
+                "answer": "The first two sentences of the paragraph in Annex II.2 were deleted as they were considered vague and did not add any value to the content."
+            },
+            {
+                "question": "What new statement was added to Annex II.2.3.6?",
+                "answer": "A new statement was added indicating that soil degradation data can be used under certain conditions when aquatic degradation data is not available."
+            },
+            {
+                "question": "What clarification was introduced in Annex II.2.3.7?",
+                "answer": "A clarification was introduced regarding the use of anaerobic degradation data, specifying its appropriate application scenarios."
+            },
+            {
+                "question": "What clarification was added to Annex II.3.1?",
+                "answer": "A clarification was added to Annex II.3.1 regarding the general guidance for document deleted complex substances, which also resulted in a change in section I.4.5."
+            },
+            {
+                "question": "What are the key changes made in the revision of the document?",
+                "answer": "The key changes include deleting the first two sentences of Annex II.2, adding a new statement to Annex II.2.3.6 about soil degradation data usage, clarifying the use of anaerorobic degradation data in Annex II.2.3.7, and adding clarification to Annex II.3.1 regarding complex substances, which also affected section I.4.5."
+            }
+        ],
+        "context": "(v) Revision of following sections in Part 3:\n\u00b7 Annex II.2: Two first sentences of the paragraph have been deleted as they were vague and did not offer any added value;\n\u00b7 Annex II.2.3.6: An additional statement that soil degradation data can be used under certain conditions in the absence of aquatic degradation data has been added;\n\u00b7 Annex  II.2.3.7: Clarification on  the use  of anaerobic degradation data has been added;\n\u00b7 Annex  II.3.1:  Clarification  on  the  general  guidance  for\nDocument deleted complex substances has been added (also change in I.4.5);"
+    },
+    "56": {
+        "generated": [
+            {
+                "question": "What changes were made to Annex III.2.1 in the revision?",
+                "answer": "Footnote 29 in Annex III.2.1 has been deleted as it is considered outdated."
+            },
+            {
+                "question": "Which annex received additions regarding the conclusion on bioaccumulation under CLP?",
+                "answer": "Annex III.5 received additions emphasizing the requirement for a conclusion on bioaccumulation under CLP, with more explicit wording on the conclusion based on available data."
+            },
+            {
+                "question": "What specific addition was made to Annex III.2.2.2?",
+                "answer": "Guidance on (Q)SAR BCFs and their use has been added to Annex III.2.2.2."
+            },
+            {
+                "question": "What amendment was made to Annex IV.3 regarding rapid removal?",
+                "answer": "The footnote in Annex IV.3 about rapid removal has been amended to reflect the CARACAL decision on rapid removal."
+            },
+            {
+                "question": "What correction was implemented in Annex IV.5.4?",
+                "answer": "An error regarding the loading rates used to determine chronic M-factors has been corrected in Annex IV.5.4."
+            }
+        ],
+        "context": "(v) Revision of following sections in Part 3:\n\u00b7 Annex II.3.5: Clarification text on presence of both positive and negative ready biodegradability tests has been added;\n\u00b7 Annex III.2.1: Footnote 29 has been deleted as it is out of date;\n\u00b7 Annex III.2.1.2: Clarification text on radio-labelled substances has been added;\n\u00b7 Annex III.2.2.2, Table III.1 has been deleted;\n\u00b7 Annex III.2.2.2,  Guidance on (Q)SAR BCFs and their use has been added;\n\u00b7 Annex III.5: Text added to emphasise that a conclusion on bioaccumulation is required under CLP and that a conclusion as 'inconclusive' is still possible, albeit not preferred;\n\u00b7 Annex III.5: More explicit wording added on the conclusion on bioaccumulation, based on the available data;\n\u00b7 Annex  IV.3:  Rapid  removal  footnote  amended  to  reflect CARACAL decision on rapid removal;\n\u00b7 Annex IV.5.4: Correction of  error  regarding loading rates used to determine chronic M-factors;"
+    },
+    "57": {
+        "generated": [
+            {
+                "question": "What are the key revisions made to Annex IV.5.6 in the updated document?",
+                "answer": "The key revision to Annex IV.5.6 involves correcting the consideration of alloys under CLP to remove any reference to 'special preparations' and ensure it accurately reflects CLP Article 2(27)."
+            },
+            {
+                "question": "How has the determination of Mfactors for readily soluble metal compounds been adjusted in the document?",
+                "answer": "The criteria for determining Mfactors for readily soluble metal compounds have been corrected to address an error in the original table, ensuring more accurate calculations."
+            },
+            {
+                "question": "What additional changes were implemented beyond the main revisions in the document?",
+                "answer": "Beyond the main revisions, the document includes corrections for typos, spelling errors, and formatting issues, such as homogenizing references both within the document and to external sources."
+            },
+            {
+                "question": "What is the purpose of the updated guidance document on CLP criteria application?",
+                "answer": "The updated guidance document aims to provide a single, organized resource for applying the CLP criteria, with restructured and re-presented constituent parts for clarity and accessibility."
+            },
+            {
+                "question": "When was the updated guidance document on CLP criteria application published?",
+                "answer": "The updated guidance document was published in November 2024."
+            }
+        ],
+        "context": "(v) Revision of following sections in Part 3:\n\u00b7 Annex IV.5.6: Correction of how alloys are considered under CLP  to  remove  reference  to  'special  preparations'  and accurately reflect CLP Art. 2(27);\n\u00b7 Table IV.1: Correction of criteria error on determining Mfactors for readily soluble metal compounds;\nBesides these changes, typos, spelling errors and other formatting issues, such as homogenisation of referencing (both within  the  document  and  to  external  sources),  have  been addressed. Note, such changes are not substantial and do not alter the content.\nSingle  document  for  Guidance  on  the  Application  of  the  CLP Criteria reorganised and re-presented in constituent parts.\nNovember 2024\nEUROPEAN CHEMICALS AGENCY P.O. BOX 400, FI-00121 HELSINKI, FINLAND ECHA.EUROPA.EU"
+    }
+}

@@ -4,6 +4,11 @@ __pycache__/
 *$py.class
 Wafermap_Project/Kaggle/data
 Wafermap_Project/App/model/data
+llm-finetuning/complete_checkpoint
+llm-finetuning/final_model
+llm-finetuning/meta-llama
+llm-finetuning/workspace
+
 
 
 
